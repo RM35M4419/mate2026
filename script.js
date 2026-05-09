@@ -23,6 +23,7 @@ const objectMapping = {
     "cinta": "cinta de conjuro", "cuerda": "cordel de plata", "chocolates": "pociones de energía"
 };
 
+// UI Elements
 const problemText = document.getElementById('problem-text');
 const answerInput = document.getElementById('answer-input');
 const checkBtn = document.getElementById('check-btn');
@@ -31,39 +32,17 @@ const nextBtn = document.getElementById('next-btn');
 const feedback = document.getElementById('feedback');
 const teacherQuote = document.getElementById('teacher-quote');
 const characterImg = document.getElementById('character-img');
-const sectionSelect = document.getElementById('section-select');
 
 async function init() {
     try {
         const response = await fetch('data/problems.json');
         allProblems = await response.json();
-        
-        // Populate sections
-        const sections = [...new Set(allProblems.map(p => p.section))].sort();
-        sections.forEach(s => {
-            const opt = document.createElement('option');
-            opt.value = s;
-            opt.innerText = s;
-            sectionSelect.appendChild(opt);
-        });
-
-        filterAndShow();
+        shuffle(allProblems);
+        showProblem();
     } catch (err) {
         problemText.innerText = "Error al cargar los hechizos. Asegúrate de que el servidor esté activo.";
         console.error(err);
     }
-}
-
-function filterAndShow() {
-    const selected = sectionSelect.value;
-    if (selected === 'all') {
-        filteredProblems = [...allProblems];
-    } else {
-        filteredProblems = allProblems.filter(p => p.section === selected);
-    }
-    shuffle(filteredProblems);
-    currentProblemIndex = 0;
-    showProblem();
 }
 
 function shuffle(array) {
@@ -85,11 +64,11 @@ function tematize(text) {
 }
 
 function showProblem() {
-    if (filteredProblems.length === 0) {
-        problemText.innerText = "No hay problemas en esta sección.";
+    if (allProblems.length === 0) {
+        problemText.innerText = "No hay problemas cargados.";
         return;
     }
-    const problem = filteredProblems[currentProblemIndex];
+    const problem = allProblems[currentProblemIndex];
     problemText.innerText = tematize(problem.question);
     
     const character = characters[Math.floor(Math.random() * characters.length)];
@@ -106,7 +85,7 @@ function showProblem() {
 
 function checkAnswer() {
     const userAnswer = answerInput.value.trim().toLowerCase();
-    const correctAnswer = filteredProblems[currentProblemIndex].answer.trim().toLowerCase();
+    const correctAnswer = allProblems[currentProblemIndex].answer.trim().toLowerCase();
     
     if (userAnswer === correctAnswer) {
         feedback.innerText = "¡Excelente! El hechizo ha funcionado a la perfección.";
@@ -120,7 +99,7 @@ function checkAnswer() {
 }
 
 function showHint() {
-    feedback.innerText = `La respuesta correcta es: ${filteredProblems[currentProblemIndex].answer}`;
+    feedback.innerText = `La respuesta correcta es: ${allProblems[currentProblemIndex].answer}`;
     feedback.className = "feedback-msg";
     nextBtn.classList.remove('hidden');
 }
@@ -128,10 +107,9 @@ function showHint() {
 checkBtn.addEventListener('click', checkAnswer);
 hintBtn.addEventListener('click', showHint);
 nextBtn.addEventListener('click', () => {
-    currentProblemIndex = (currentProblemIndex + 1) % filteredProblems.length;
+    currentProblemIndex = (currentProblemIndex + 1) % allProblems.length;
     showProblem();
 });
-sectionSelect.addEventListener('change', filterAndShow);
 answerInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') checkAnswer(); });
 
 init();

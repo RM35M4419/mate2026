@@ -5,3 +5,33 @@ Laura compró 4 paquetes de galletas a $80 cada uno y pagó con un billete de $6
 María tenía ahorrados $3,500. Sus padres le regalaron $1,200 más, pero tuvo que gastar $750 en un libro nuevo. ¿Cuánto dinero tiene ahora?	3950	problemas-dinero
 El papá tiene $950 y necesita comprar una mesa de $1,300. ¿Cuánto dinero le falta?	350	problemas-dinero
 En una tienda, un par de zapatos cuesta $250 y un suéter cuesta $180 más que los zapatos. Si pagan con $1,000 en efectivo, ¿cuánto cambio reciben?	320	problemas-dinero
+Coco quiere comprar 3 frascos de tinta mágica que cuestan $150 cada uno. Si tiene $500, ¿cuánto dinero le quedará?	50	problemas-dinero
+Qifrey compró un juego de pinceles por $1,200 y un rollo de pergamino por $450. Si pagó con $2,000, ¿cuánto cambio recibió?	350	problemas-dinero
+Agott necesita $2,500 para un nuevo sombrero, pero solo tiene $1,850. ¿Cuánto dinero le falta ahorrar?	650	problemas-dinero
+Tetia compró 5 pasteles de bayas a $120 cada uno. Si pagó con un billete de $1,000, ¿cuánto le devolvieron?	400	problemas-dinero
+Richeh vendió 2 dibujos mágicos por $300 cada uno y compró pintura por $150. ¿Cuánto dinero tiene en total?	450	problemas-dinero
+Olruggio compró piezas para un candil mágico: una base de $850 y un cristal de $600. ¿Cuánto gastó en total?	1450	problemas-dinero
+Coco encontró una bolsa con $2,000. Compró un libro de hechizos de $1,350 y un amuleto de $200. ¿Cuánto dinero le queda?	450	problemas-dinero
+Qifrey tiene $5,000 para suministros del Atelier. Gastó $2,400 en pergaminos y $1,100 en tinta. ¿Cuánto dinero tiene ahora?	1500	problemas-dinero
+Agott compró 3 frascos de esencia estelar a $250 cada uno. Si pagó con $1,000, ¿cuánto cambio recibió?	250	problemas-dinero
+Tetia quiere repartir $1,000 entre sus 4 amigos de forma igualitaria. ¿Cuánto dinero le dará a cada uno?	250	problemas-dinero
+Richeh compró un cuaderno por $650 y recibió un descuento de $120. ¿Cuánto pagó finalmente?	530	problemas-dinero
+Olruggio vendió un invento por $4,500 y compró herramientas por $2,100. ¿Cuánto dinero le sobró?	2400	problemas-dinero
+Coco ahorró $50 cada día durante una semana (7 días). ¿Cuánto dinero juntó en total?	350	problemas-dinero
+Qifrey compró 2 capas mágicas a $1,800 cada una. ¿Cuánto dinero gastó en total?	3600	problemas-dinero
+Agott tenía $3,000, compró una pluma de plata por $1,250 y un tintero por $450. ¿Cuánto dinero le queda?	1300	problemas-dinero
+Tetia compró 10 varitas de caramelo a $45 cada una. ¿Cuánto dinero gastó en total?	450	problemas-dinero
+Richeh necesita comprar 4 botes de pintura azul que cuestan $320 cada uno. ¿Cuánto dinero necesita en total?	1280	problemas-dinero
+Olruggio reparó un báculo por $800 y un reloj por $1,200. Con ese dinero compró madera por $500. ¿Cuánto le quedó?	1500	problemas-dinero
+Coco compró un colgante de $750 y unos pendientes de $450. Si pagó con $1,500, ¿cuánto cambio recibió?	300	problemas-dinero
+Qifrey tiene $10,000. Compró una mesa de trabajo por $5,500 y dos sillas por $1,200 cada una. ¿Cuánto dinero le queda?	2100	problemas-dinero
+Agott compró 6 gemas rúnicas a $150 cada una. ¿Cuánto dinero gastó en total?	900	problemas-dinero
+Tetia tiene $1,200 y quiere comprar un set de cintas que cuesta $1,550. ¿Cuánto dinero le falta?	350	problemas-dinero
+Richeh vendió 5 pociones a $400 cada una. ¿Cuánto dinero obtuvo en total?	2000	problemas-dinero
+Olruggio compró un fuelle por $1,350 y un martillo por $650. ¿Cuánto gastó en total?	2000	problemas-dinero
+Coco compró 3 ramos de flores de nieve a $180 cada uno. Si pagó con $1,000, ¿cuánto le devolvieron?	460	problemas-dinero
+Qifrey pagó $4,500 por una alfombra mágica y $1,500 por un espejo. Si tenía $7,000, ¿cuánto dinero le queda?	1000	problemas-dinero
+Agott compró un cinturón por $850 y una hebilla de oro por $1,200. ¿Cuánto gastó en total?	2050	problemas-dinero
+Tetia tiene $500 y compró 3 globos mágicos a $65 cada uno. ¿Cuánto dinero le queda?	305	problemas-dinero
+Richeh compró una caja de pinceles por $2,400 en 3 cuotas iguales. ¿De cuánto es cada cuota?	800	problemas-dinero
+Olruggio compró un yunque por $5,000 y pagó con un billete de $10,000. ¿Cuánto cambio recibió?	5000	problemas-dinero
