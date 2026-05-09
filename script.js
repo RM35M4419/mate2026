@@ -2,12 +2,12 @@ let problems = [];
 let currentProblemIndex = 0;
 
 const characters = [
-    { name: "Qifrey", quote: "El dibujo de un círculo es la base de toda magia, y el cálculo su corazón." },
-    { name: "Olruggio", quote: "Incluso los objetos mágicos más complejos se rigen por las leyes de los números." },
-    { name: "Coco", quote: "¡He aprendido un nuevo hechizo de suma! ¿Puedes ayudarme?" },
-    { name: "Agott", quote: "La precisión es fundamental en el dibujo de runas. No te equivoques." },
-    { name: "Tetia", quote: "¡Felicidades! Cada problema resuelto es como una nueva estrella en el cielo." },
-    { name: "Richeh", quote: "Solo busco la magia que es única para mí, y eso requiere entender sus formas." }
+    { name: "Qifrey", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1843900064.jpg", quote: "El dibujo de un círculo es la base de toda magia, y el cálculo su corazón." },
+    { name: "Olruggio", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1962014057.jpg", quote: "Incluso los objetos mágicos más complejos se rigen por las leyes de los números." },
+    { name: "Coco", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1485654334.jpg", quote: "¡He aprendido un nuevo hechizo de suma! ¿Puedes ayudarme?" },
+    { name: "Agott", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-11443936.jpg", quote: "La precisión es fundamental en el dibujo de runas. No te equivoques." },
+    { name: "Tetia", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1945622719.jpg", quote: "¡Felicidades! Cada problema resuelto es como una nueva estrella en el cielo." },
+    { name: "Richeh", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-795371726.jpg", quote: "Solo busco la magia que es única para mí, y eso requiere entender sus formas." }
 ];
 
 const nameMapping = {
@@ -16,7 +16,14 @@ const nameMapping = {
     "Ana": "Agott",
     "Pedro": "Olruggio",
     "Lucía": "Tetia",
-    "Luis": "Richeh"
+    "Luis": "Richeh",
+    "Tomás": "Qifrey",
+    "Sofía": "Coco",
+    "Carlos": "Olruggio",
+    "Eva": "Agott",
+    "Mateo": "Richeh",
+    "Sandra": "Tetia",
+    "Pablo": "Olruggio"
 };
 
 const objectMapping = {
@@ -26,7 +33,15 @@ const objectMapping = {
     "perros": "pinceles mágicos",
     "bolitas": "gemas de luz",
     "lápices": "pinceles de varita",
-    "flores": "flores de cristal de nieve"
+    "flores": "flores de cristal de nieve",
+    "figuritas": "cartas mágicas",
+    "pesos": "monedas de plata",
+    "libros": "grimorios",
+    "estantes": "anaqueles de hechizos",
+    "galletas": "bayas mágicas",
+    "cinta": "cinta de conjuro",
+    "cuerda": "cordel de plata",
+    "chocolates": "pociones de energía"
 };
 
 // UI Elements
@@ -37,6 +52,7 @@ const hintBtn = document.getElementById('hint-btn');
 const nextBtn = document.getElementById('next-btn');
 const feedback = document.getElementById('feedback');
 const teacherQuote = document.getElementById('teacher-quote');
+const characterImg = document.getElementById('character-img');
 
 async function init() {
     try {
@@ -79,9 +95,10 @@ function showProblem() {
     const problem = problems[currentProblemIndex];
     problemText.innerText = tematize(problem.question);
     
-    // Cambiar frase del personaje
+    // Cambiar frase del personaje e imagen
     const character = characters[Math.floor(Math.random() * characters.length)];
     teacherQuote.innerText = `"${character.quote}" — ${character.name}`;
+    characterImg.style.backgroundImage = `url(${character.image})`;
     
     // Reset UI
     answerInput.value = '';
@@ -96,8 +113,8 @@ function checkAnswer() {
     const userAnswer = answerInput.value.trim().toLowerCase();
     const correctAnswer = problems[currentProblemIndex].answer.trim().toLowerCase();
     
-    // Comparación simple, permitiendo pequeñas variaciones en problemas narrativos
-    // Por ahora, comparación exacta (sin espacios)
+    // Limpieza básica de la respuesta del usuario para permitir formatos como "1/2" o decimales
+    // pero enfocándose en que el núcleo sea el número.
     if (userAnswer === correctAnswer) {
         feedback.innerText = "¡Excelente! El hechizo ha funcionado a la perfección.";
         feedback.className = "feedback-msg correct";

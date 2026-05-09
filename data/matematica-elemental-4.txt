@@ -23,29 +23,29 @@
 81 ÷ 9 = 	9	division numeros-mayores
 100 ÷ 10 = 	10	division numeros-mayores
 144 ÷ 12 = 	12	division numeros-mayores
-¿Son equivalentes 1/2 y 2/4?	sí	fracciones equivalentes
-¿Son equivalentes 1/4 y 2/8?	sí	fracciones equivalentes
-¿Son equivalentes 1/3 y 2/6?	sí	fracciones equivalentes
-¿Son equivalentes 2/4 y 3/6?	sí	fracciones equivalentes
-¿Qué fracción es equivalente a 1/2?	2/4, 3/6, 4/8, etc.	fracciones equivalentes
-¿Qué fracción es equivalente a 2/3?	4/6, 6/9, 8/12, etc.	fracciones equivalentes
+¿Son equivalentes 1/2 y 2/4? (1: sí, 0: no)	1	fracciones equivalentes
+¿Son equivalentes 1/4 y 2/8? (1: sí, 0: no)	1	fracciones equivalentes
+¿Son equivalentes 1/3 y 2/6? (1: sí, 0: no)	1	fracciones equivalentes
+¿Son equivalentes 2/4 y 3/6? (1: sí, 0: no)	1	fracciones equivalentes
+¿Qué fracción es equivalente a 1/2?	2/4	fracciones equivalentes
+¿Qué fracción es equivalente a 2/3?	4/6	fracciones equivalentes
 1/2 + 1/4 = 	3/4	fracciones operaciones
 1/3 + 1/3 = 	2/3	fracciones operaciones
-¿Cuál es el perímetro de un cuadrado cuyo lado mide 5 cm?	20 cm	geometria perimetro
-¿Cuál es el perímetro de un rectángulo de 6 cm de largo y 3 cm de ancho?	18 cm	geometria perimetro
-¿Cuál es el perímetro de un triángulo cuyos lados miden 4 cm, 5 cm y 6 cm?	15 cm	geometria perimetro
-¿Cuál es el área de un cuadrado cuyo lado mide 4 cm?	16 cm²	geometria area
-¿Cuál es el área de un rectángulo de 7 cm de largo y 5 cm de ancho?	35 cm²	geometria area
-¿Cuál es el área de un rectángulo de 10 cm de largo y 6 cm de ancho?	60 cm²	geometria area
+¿Cuál es el perímetro de un cuadrado cuyo lado mide 5 cm?	20	geometria perimetro
+¿Cuál es el perímetro de un rectángulo de 6 cm de largo y 3 cm de ancho?	18	geometria perimetro
+¿Cuál es el perímetro de un triángulo cuyos lados miden 4 cm, 5 cm y 6 cm?	15	geometria perimetro
+¿Cuál es el área de un cuadrado cuyo lado mide 4 cm?	16	geometria area
+¿Cuál es el área de un rectángulo de 7 cm de largo y 5 cm de ancho?	35	geometria area
+¿Cuál es el área de un rectángulo de 10 cm de largo y 6 cm de ancho?	60	geometria area
 ¿Cuántos ángulos tiene un triángulo?	3	geometria figuras
 ¿Cuántos ángulos rectos tiene un rectángulo?	4	geometria figuras
-¿Qué es 0.5?	media unidad o 1/2	decimales basico
-¿Qué es 0.25?	cuarta parte o 1/4	decimales basico
-¿Qué es 0.75?	tres cuartos o 3/4	decimales basico
+¿Qué valor decimal tiene 1/2?	0.5	decimales basico
+¿Qué valor decimal tiene 1/4?	0.25	decimales basico
+¿Qué valor decimal tiene 3/4?	0.75	decimales basico
 0.5 + 0.25 = 	0.75	decimales operaciones
-Una cancha de fútbol tiene 90 metros de largo y 45 metros de ancho. ¿Cuál es su perímetro?	270 metros	problemas geometria
-Un terreno rectangular mide 12 metros de largo y 8 metros de ancho. ¿Cuál es su área?	96 m²	problemas geometria
-Si una caja contiene 36 chocolates y quieres repartirlos en 9 bolsas iguales, ¿cuántos chocolates irán en cada bolsa?	4 chocolates	problemas division
-Un pastel se corta en 8 partes iguales. Si se comen 2 partes, ¿qué fracción queda?	6/8 o 3/4	problemas fracciones
-Una libreta cuesta 15 pesos. ¿Cuánto cuestan 12 libretas?	180 pesos	problemas multiplicacion
-Un rectángulo tiene 0.5 metros de ancho y 2 metros de largo. ¿Cuál es su área?	1 m²	problemas geometria decimales
+Una cancha de fútbol tiene 90 metros de largo y 45 metros de ancho. ¿Cuál es su perímetro?	270	problemas geometria
+Un terreno rectangular mide 12 metros de largo y 8 metros de ancho. ¿Cuál es su área?	96	problemas geometria
+Si una caja contiene 36 chocolates y quieres repartirlos en 9 bolsas iguales, ¿cuántos chocolates irán en cada bolsa?	4	problemas division
+Un pastel se corta en 8 partes iguales. Si se comen 2 partes, ¿qué fracción queda?	3/4	problemas fracciones
+Una libreta cuesta 15 pesos. ¿Cuánto cuestan 12 libretas?	180	problemas multiplicacion
+Un rectángulo tiene 0.5 metros de ancho y 2 metros de largo. ¿Cuál es su área?	1	problemas geometria decimales

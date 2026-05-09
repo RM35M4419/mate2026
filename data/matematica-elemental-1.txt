@@ -11,14 +11,14 @@ Completa: 10, 11, 12, 13, ___	14	conteo secuencias
 Completa: 15, 16, 17, 18, ___	19	conteo secuencias
 ¿Qué número viene después de 19?	20	conteo numeros
 ¿Cuántas ruedas tiene un coche?	4	conteo numeros
-Compara: 5 ___ 3 (mayor que, menor que, igual)	mayor que (>)	comparacion
-Compara: 7 ___ 7 (mayor que, menor que, igual)	igual (=)	comparacion
-Compara: 2 ___ 8 (mayor que, menor que, igual)	menor que (<)	comparacion
-¿Es 10 mayor o menor que 6?	mayor	comparacion
-¿Es 4 mayor o menor que 9?	menor	comparacion
-Compara: 15 ___ 12 (mayor que, menor que, igual)	mayor que (>)	comparacion
-Compara: 8 ___ 8 (mayor que, menor que, igual)	igual (=)	comparacion
-¿Es 3 igual a 3?	sí	comparacion
+Compara: 5 ___ 3 (1: >, 2: <, 3: =)	1	comparacion
+Compara: 7 ___ 7 (1: >, 2: <, 3: =)	3	comparacion
+Compara: 2 ___ 8 (1: >, 2: <, 3: =)	2	comparacion
+¿Es 10 mayor (1) o menor (2) que 6?	1	comparacion
+¿Es 4 mayor (1) o menor (2) que 9?	2	comparacion
+Compara: 15 ___ 12 (1: >, 2: <, 3: =)	1	comparacion
+Compara: 8 ___ 8 (1: >, 2: <, 3: =)	3	comparacion
+¿Es 3 igual a 3? (1: sí, 0: no)	1	comparacion
 1 + 1 = 	2	suma basico
 2 + 2 = 	4	suma basico
 3 + 2 = 	5	suma basico
@@ -45,9 +45,9 @@ Compara: 8 ___ 8 (mayor que, menor que, igual)	igual (=)	comparacion
 10 - 5 = 	5	resta basico
 20 - 10 = 	10	resta basico
 6 - 1 = 	5	resta basico
-María tiene 3 manzanas y su mamá le da 2 más. ¿Cuántas manzanas tiene ahora?	5 manzanas	problemas suma
-Juan tiene 8 caramelos y come 2. ¿Cuántos caramelos le quedan?	6 caramelos	problemas resta
-Ana tiene 4 gatos y 5 perros. ¿Cuántos animales tiene en total?	9 animales	problemas suma
-Pedro tenía 10 bolitas y perdió 3. ¿Cuántas bolitas le quedan?	7 bolitas	problemas resta
-En una caja hay 6 lápices rojos y 4 lápices azules. ¿Cuántos lápices hay en total?	10 lápices	problemas suma
-Lucía tenía 9 flores y regaló 4. ¿Cuántas flores le quedan?	5 flores	problemas resta
+María tiene 3 manzanas y su mamá le da 2 más. ¿Cuántas manzanas tiene ahora?	5	problemas suma
+Juan tiene 8 caramelos y come 2. ¿Cuántos caramelos le quedan?	6	problemas resta
+Ana tiene 4 gatos y 5 perros. ¿Cuántos animales tiene en total?	9	problemas suma
+Pedro tenía 10 bolitas y perdió 3. ¿Cuántas bolitas le quedan?	7	problemas resta
+En una caja hay 6 lápices rojos y 4 lápices azules. ¿Cuántos lápices hay en total?	10	problemas suma
+Lucía tenía 9 flores y regaló 4. ¿Cuántas flores le quedan?	5	problemas resta

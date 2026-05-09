@@ -90,64 +90,64 @@
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "Compara: 5 ___ 3 (mayor que, menor que, igual)",
-    "answer": "mayor que (>)",
+    "question": "Compara: 5 ___ 3 (1: >, 2: <, 3: =)",
+    "answer": "1",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "Compara: 7 ___ 7 (mayor que, menor que, igual)",
-    "answer": "igual (=)",
+    "question": "Compara: 7 ___ 7 (1: >, 2: <, 3: =)",
+    "answer": "3",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "Compara: 2 ___ 8 (mayor que, menor que, igual)",
-    "answer": "menor que (<)",
+    "question": "Compara: 2 ___ 8 (1: >, 2: <, 3: =)",
+    "answer": "2",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "¿Es 10 mayor o menor que 6?",
-    "answer": "mayor",
+    "question": "¿Es 10 mayor (1) o menor (2) que 6?",
+    "answer": "1",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "¿Es 4 mayor o menor que 9?",
-    "answer": "menor",
+    "question": "¿Es 4 mayor (1) o menor (2) que 9?",
+    "answer": "2",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "Compara: 15 ___ 12 (mayor que, menor que, igual)",
-    "answer": "mayor que (>)",
+    "question": "Compara: 15 ___ 12 (1: >, 2: <, 3: =)",
+    "answer": "1",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "Compara: 8 ___ 8 (mayor que, menor que, igual)",
-    "answer": "igual (=)",
+    "question": "Compara: 8 ___ 8 (1: >, 2: <, 3: =)",
+    "answer": "3",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-1.txt"
   },
   {
-    "question": "¿Es 3 igual a 3?",
-    "answer": "sí",
+    "question": "¿Es 3 igual a 3? (1: sí, 0: no)",
+    "answer": "1",
     "tags": [
       "comparacion"
     ],
@@ -389,7 +389,7 @@
   },
   {
     "question": "María tiene 3 manzanas y su mamá le da 2 más. ¿Cuántas manzanas tiene ahora?",
-    "answer": "5 manzanas",
+    "answer": "5",
     "tags": [
       "problemas",
       "suma"
@@ -398,7 +398,7 @@
   },
   {
     "question": "Juan tiene 8 caramelos y come 2. ¿Cuántos caramelos le quedan?",
-    "answer": "6 caramelos",
+    "answer": "6",
     "tags": [
       "problemas",
       "resta"
@@ -407,7 +407,7 @@
   },
   {
     "question": "Ana tiene 4 gatos y 5 perros. ¿Cuántos animales tiene en total?",
-    "answer": "9 animales",
+    "answer": "9",
     "tags": [
       "problemas",
       "suma"
@@ -416,7 +416,7 @@
   },
   {
     "question": "Pedro tenía 10 bolitas y perdió 3. ¿Cuántas bolitas le quedan?",
-    "answer": "7 bolitas",
+    "answer": "7",
     "tags": [
       "problemas",
       "resta"
@@ -425,7 +425,7 @@
   },
   {
     "question": "En una caja hay 6 lápices rojos y 4 lápices azules. ¿Cuántos lápices hay en total?",
-    "answer": "10 lápices",
+    "answer": "10",
     "tags": [
       "problemas",
       "suma"
@@ -434,7 +434,7 @@
   },
   {
     "question": "Lucía tenía 9 flores y regaló 4. ¿Cuántas flores le quedan?",
-    "answer": "5 flores",
+    "answer": "5",
     "tags": [
       "problemas",
       "resta"
@@ -443,7 +443,7 @@
   },
   {
     "question": "¿Cuántas decenas tiene el número 45?",
-    "answer": "4 decenas (y 5 unidades)",
+    "answer": "4",
     "tags": [
       "valor-posicional",
       "numeros"
@@ -452,7 +452,7 @@
   },
   {
     "question": "¿Cuántas unidades tiene el número 67?",
-    "answer": "7 unidades",
+    "answer": "7",
     "tags": [
       "valor-posicional",
       "numeros"
@@ -532,16 +532,16 @@
     "source": "matematica-elemental-2.txt"
   },
   {
-    "question": "Compara: 45 ___ 54 (mayor que, menor que, igual)",
-    "answer": "menor que (<)",
+    "question": "Compara: 45 ___ 54 (1: >, 2: <, 3: =)",
+    "answer": "2",
     "tags": [
       "comparacion"
     ],
     "source": "matematica-elemental-2.txt"
   },
   {
-    "question": "Compara: 78 ___ 78 (mayor que, menor que, igual)",
-    "answer": "igual (=)",
+    "question": "Compara: 78 ___ 78 (1: >, 2: <, 3: =)",
+    "answer": "3",
     "tags": [
       "comparacion"
     ],
@@ -813,7 +813,7 @@
   },
   {
     "question": "Tomás tiene 15 caramelos y su amigo le da 8 más. ¿Cuántos caramelos tiene ahora?",
-    "answer": "23 caramelos",
+    "answer": "23",
     "tags": [
       "problemas",
       "suma-llevada"
@@ -822,7 +822,7 @@
   },
   {
     "question": "Sofía tenía 32 figuritas y perdió 6. ¿Cuántas figuritas le quedan?",
-    "answer": "26 figuritas",
+    "answer": "26",
     "tags": [
       "problemas",
       "resta-llevada"
@@ -831,7 +831,7 @@
   },
   {
     "question": "Carlos compró 5 paquetes de lápices. Cada paquete tiene 10 lápices. ¿Cuántos lápices tiene en total?",
-    "answer": "50 lápices",
+    "answer": "50",
     "tags": [
       "problemas",
       "multiplicacion"
@@ -840,7 +840,7 @@
   },
   {
     "question": "Una tienda vendió 28 libros en la mañana y 15 libros en la tarde. ¿Cuántos libros vendió en total?",
-    "answer": "43 libros",
+    "answer": "43",
     "tags": [
       "problemas",
       "suma-llevada"
@@ -849,7 +849,7 @@
   },
   {
     "question": "Eva tenía 50 pesos y gastó 18 pesos en una revista. ¿Cuántos pesos le quedan?",
-    "answer": "32 pesos",
+    "answer": "32",
     "tags": [
       "problemas",
       "resta-llevada"
@@ -858,7 +858,7 @@
   },
   {
     "question": "En una escuela hay 4 aulas y en cada aula hay 9 estudiantes. ¿Cuántos estudiantes hay en total?",
-    "answer": "36 estudiantes",
+    "answer": "36",
     "tags": [
       "problemas",
       "multiplicacion"
@@ -1101,7 +1101,7 @@
   },
   {
     "question": "¿Cuál es la mitad de 8?",
-    "answer": "4 (1/2 de 8 = 4)",
+    "answer": "4",
     "tags": [
       "fracciones",
       "medios"
@@ -1110,7 +1110,7 @@
   },
   {
     "question": "¿Cuál es la mitad de 10?",
-    "answer": "5 (1/2 de 10 = 5)",
+    "answer": "5",
     "tags": [
       "fracciones",
       "medios"
@@ -1119,7 +1119,7 @@
   },
   {
     "question": "¿Cuál es la mitad de 16?",
-    "answer": "8 (1/2 de 16 = 8)",
+    "answer": "8",
     "tags": [
       "fracciones",
       "medios"
@@ -1128,7 +1128,7 @@
   },
   {
     "question": "¿Cuál es la cuarta parte de 8?",
-    "answer": "2 (1/4 de 8 = 2)",
+    "answer": "2",
     "tags": [
       "fracciones",
       "cuartos"
@@ -1137,7 +1137,7 @@
   },
   {
     "question": "¿Cuál es la cuarta parte de 12?",
-    "answer": "3 (1/4 de 12 = 3)",
+    "answer": "3",
     "tags": [
       "fracciones",
       "cuartos"
@@ -1146,7 +1146,7 @@
   },
   {
     "question": "¿Cuál es la cuarta parte de 20?",
-    "answer": "5 (1/4 de 20 = 5)",
+    "answer": "5",
     "tags": [
       "fracciones",
       "cuartos"
@@ -1173,7 +1173,7 @@
   },
   {
     "question": "¿Cuántos centímetros hay en 1 metro?",
-    "answer": "100 centímetros",
+    "answer": "100",
     "tags": [
       "medidas"
     ],
@@ -1181,7 +1181,7 @@
   },
   {
     "question": "¿Cuántos metros hay en 1 kilómetro?",
-    "answer": "1000 metros",
+    "answer": "1000",
     "tags": [
       "medidas"
     ],
@@ -1189,7 +1189,7 @@
   },
   {
     "question": "¿Cuántas horas hay en 1 día?",
-    "answer": "24 horas",
+    "answer": "24",
     "tags": [
       "tiempo"
     ],
@@ -1197,7 +1197,7 @@
   },
   {
     "question": "¿Cuántos minutos hay en 1 hora?",
-    "answer": "60 minutos",
+    "answer": "60",
     "tags": [
       "tiempo"
     ],
@@ -1205,7 +1205,7 @@
   },
   {
     "question": "¿Cuántos segundos hay en 1 minuto?",
-    "answer": "60 segundos",
+    "answer": "60",
     "tags": [
       "tiempo"
     ],
@@ -1213,7 +1213,7 @@
   },
   {
     "question": "¿Cuántos gramos hay en 1 kilogramo?",
-    "answer": "1000 gramos",
+    "answer": "1000",
     "tags": [
       "medidas"
     ],
@@ -1221,7 +1221,7 @@
   },
   {
     "question": "¿Cuántas monedas de 10 pesos hay en 100 pesos?",
-    "answer": "10 monedas",
+    "answer": "10",
     "tags": [
       "dinero"
     ],
@@ -1229,7 +1229,7 @@
   },
   {
     "question": "Si tienes 3 monedas de 5 pesos, ¿cuánto dinero tienes?",
-    "answer": "15 pesos",
+    "answer": "15",
     "tags": [
       "dinero"
     ],
@@ -1237,7 +1237,7 @@
   },
   {
     "question": "En una biblioteca hay 8 estantes. En cada estante caben 7 libros. ¿Cuántos libros caben en total?",
-    "answer": "56 libros",
+    "answer": "56",
     "tags": [
       "problemas",
       "multiplicacion"
@@ -1246,7 +1246,7 @@
   },
   {
     "question": "Pablo tiene 24 caramelos y quiere repartirlos equitativamente entre 6 amigos. ¿Cuántos caramelos le toca a cada uno?",
-    "answer": "4 caramelos",
+    "answer": "4",
     "tags": [
       "problemas",
       "division"
@@ -1255,7 +1255,7 @@
   },
   {
     "question": "Una cuerda mide 16 metros. ¿Cuánto mide la mitad de la cuerda?",
-    "answer": "8 metros",
+    "answer": "8",
     "tags": [
       "problemas",
       "fracciones"
@@ -1264,7 +1264,7 @@
   },
   {
     "question": "Mateo compró 9 paquetes de galletas. Cada paquete cuesta 5 pesos. ¿Cuánto gastó en total?",
-    "answer": "45 pesos",
+    "answer": "45",
     "tags": [
       "problemas",
       "multiplicacion",
@@ -1274,7 +1274,7 @@
   },
   {
     "question": "Una cinta mide 20 centímetros. ¿Cuál es la cuarta parte de la cinta?",
-    "answer": "5 centímetros",
+    "answer": "5",
     "tags": [
       "problemas",
       "fracciones",
@@ -1284,7 +1284,7 @@
   },
   {
     "question": "Sandra tiene 36 flores y quiere hacer 9 ramos iguales. ¿Cuántas flores irán en cada ramo?",
-    "answer": "4 flores",
+    "answer": "4",
     "tags": [
       "problemas",
       "division"
@@ -1490,8 +1490,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Son equivalentes 1/2 y 2/4?",
-    "answer": "sí",
+    "question": "¿Son equivalentes 1/2 y 2/4? (1: sí, 0: no)",
+    "answer": "1",
     "tags": [
       "fracciones",
       "equivalentes"
@@ -1499,8 +1499,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Son equivalentes 1/4 y 2/8?",
-    "answer": "sí",
+    "question": "¿Son equivalentes 1/4 y 2/8? (1: sí, 0: no)",
+    "answer": "1",
     "tags": [
       "fracciones",
       "equivalentes"
@@ -1508,8 +1508,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Son equivalentes 1/3 y 2/6?",
-    "answer": "sí",
+    "question": "¿Son equivalentes 1/3 y 2/6? (1: sí, 0: no)",
+    "answer": "1",
     "tags": [
       "fracciones",
       "equivalentes"
@@ -1517,8 +1517,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Son equivalentes 2/4 y 3/6?",
-    "answer": "sí",
+    "question": "¿Son equivalentes 2/4 y 3/6? (1: sí, 0: no)",
+    "answer": "1",
     "tags": [
       "fracciones",
       "equivalentes"
@@ -1527,7 +1527,7 @@
   },
   {
     "question": "¿Qué fracción es equivalente a 1/2?",
-    "answer": "2/4, 3/6, 4/8, etc.",
+    "answer": "2/4",
     "tags": [
       "fracciones",
       "equivalentes"
@@ -1536,7 +1536,7 @@
   },
   {
     "question": "¿Qué fracción es equivalente a 2/3?",
-    "answer": "4/6, 6/9, 8/12, etc.",
+    "answer": "4/6",
     "tags": [
       "fracciones",
       "equivalentes"
@@ -1563,7 +1563,7 @@
   },
   {
     "question": "¿Cuál es el perímetro de un cuadrado cuyo lado mide 5 cm?",
-    "answer": "20 cm",
+    "answer": "20",
     "tags": [
       "geometria",
       "perimetro"
@@ -1572,7 +1572,7 @@
   },
   {
     "question": "¿Cuál es el perímetro de un rectángulo de 6 cm de largo y 3 cm de ancho?",
-    "answer": "18 cm",
+    "answer": "18",
     "tags": [
       "geometria",
       "perimetro"
@@ -1581,7 +1581,7 @@
   },
   {
     "question": "¿Cuál es el perímetro de un triángulo cuyos lados miden 4 cm, 5 cm y 6 cm?",
-    "answer": "15 cm",
+    "answer": "15",
     "tags": [
       "geometria",
       "perimetro"
@@ -1590,7 +1590,7 @@
   },
   {
     "question": "¿Cuál es el área de un cuadrado cuyo lado mide 4 cm?",
-    "answer": "16 cm²",
+    "answer": "16",
     "tags": [
       "geometria",
       "area"
@@ -1599,7 +1599,7 @@
   },
   {
     "question": "¿Cuál es el área de un rectángulo de 7 cm de largo y 5 cm de ancho?",
-    "answer": "35 cm²",
+    "answer": "35",
     "tags": [
       "geometria",
       "area"
@@ -1608,7 +1608,7 @@
   },
   {
     "question": "¿Cuál es el área de un rectángulo de 10 cm de largo y 6 cm de ancho?",
-    "answer": "60 cm²",
+    "answer": "60",
     "tags": [
       "geometria",
       "area"
@@ -1634,8 +1634,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Qué es 0.5?",
-    "answer": "media unidad o 1/2",
+    "question": "¿Qué valor decimal tiene 1/2?",
+    "answer": "0.5",
     "tags": [
       "decimales",
       "basico"
@@ -1643,8 +1643,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Qué es 0.25?",
-    "answer": "cuarta parte o 1/4",
+    "question": "¿Qué valor decimal tiene 1/4?",
+    "answer": "0.25",
     "tags": [
       "decimales",
       "basico"
@@ -1652,8 +1652,8 @@
     "source": "matematica-elemental-4.txt"
   },
   {
-    "question": "¿Qué es 0.75?",
-    "answer": "tres cuartos o 3/4",
+    "question": "¿Qué valor decimal tiene 3/4?",
+    "answer": "0.75",
     "tags": [
       "decimales",
       "basico"
@@ -1671,7 +1671,7 @@
   },
   {
     "question": "Una cancha de fútbol tiene 90 metros de largo y 45 metros de ancho. ¿Cuál es su perímetro?",
-    "answer": "270 metros",
+    "answer": "270",
     "tags": [
       "problemas",
       "geometria"
@@ -1680,7 +1680,7 @@
   },
   {
     "question": "Un terreno rectangular mide 12 metros de largo y 8 metros de ancho. ¿Cuál es su área?",
-    "answer": "96 m²",
+    "answer": "96",
     "tags": [
       "problemas",
       "geometria"
@@ -1689,7 +1689,7 @@
   },
   {
     "question": "Si una caja contiene 36 chocolates y quieres repartirlos en 9 bolsas iguales, ¿cuántos chocolates irán en cada bolsa?",
-    "answer": "4 chocolates",
+    "answer": "4",
     "tags": [
       "problemas",
       "division"
@@ -1698,7 +1698,7 @@
   },
   {
     "question": "Un pastel se corta en 8 partes iguales. Si se comen 2 partes, ¿qué fracción queda?",
-    "answer": "6/8 o 3/4",
+    "answer": "3/4",
     "tags": [
       "problemas",
       "fracciones"
@@ -1707,7 +1707,7 @@
   },
   {
     "question": "Una libreta cuesta 15 pesos. ¿Cuánto cuestan 12 libretas?",
-    "answer": "180 pesos",
+    "answer": "180",
     "tags": [
       "problemas",
       "multiplicacion"
@@ -1716,7 +1716,7 @@
   },
   {
     "question": "Un rectángulo tiene 0.5 metros de ancho y 2 metros de largo. ¿Cuál es su área?",
-    "answer": "1 m²",
+    "answer": "1",
     "tags": [
       "problemas",
       "geometria",
