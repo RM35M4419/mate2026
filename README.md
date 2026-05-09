@@ -1,4 +1,4 @@
-# Atelier Mate - Práctica de Matemáticas
+# Matemática del Atelier - Práctica de Matemáticas
 
 Este es una aplicación web para practicar matemáticas con la temática de **"Atelier of Witch Hat"** (Tongari Bōshi no Atorie). Todos los problemas y la interfaz están en español.
 
