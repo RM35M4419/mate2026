@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#tags column:3
+Laura compró 4 paquetes de galletas a $80 cada uno y pagó con un billete de $600. ¿Cuánto dinero le deben devolver?	280	problemas-dinero
+María tenía ahorrados $3,500. Sus padres le regalaron $1,200 más, pero tuvo que gastar $750 en un libro nuevo. ¿Cuánto dinero tiene ahora?	3950	problemas-dinero
+El papá tiene $950 y necesita comprar una mesa de $1,300. ¿Cuánto dinero le falta?	350	problemas-dinero
+En una tienda, un par de zapatos cuesta $250 y un suéter cuesta $180 más que los zapatos. Si pagan con $1,000 en efectivo, ¿cuánto cambio reciben?	320	problemas-dinero

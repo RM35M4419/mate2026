@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#tags column:3
+Marca cuál cálculo sirve para resolver: El papá tiene $500 y necesita comprar una mesa de $875. ¿Cuánto le falta? (1: 500+875, 2: 875-500, 3: 875/500)	2	identificar-problema
+Marca cuál cálculo sirve para resolver: En caja hay $2,500. Se sacan $650 y se reciben $300. ¿Cuánto queda? (1: 2500+650, 2: 2500-650+300, 3: 2500/1000)	2	identificar-problema
+Marca cuál cálculo sirve para resolver: María juntó $4,200. Pagó $750 y recibió $1,000. ¿Cuánto tiene ahora? (1: 4200+750, 2: 4200-750+1000, 3: 4200/2)	2	identificar-problema
+Marca cuál cálculo sirve para resolver: Inventario de $9,800. Pierden $1,500 y venden $3,200. ¿Valor final? (1: 9800+1500, 2: 9800-1500-3200, 3: 9800/2)	2	identificar-problema

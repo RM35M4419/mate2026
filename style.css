@@ -46,6 +46,27 @@ header h1 {
     margin-bottom: 2rem;
 }
 
+.selector-container {
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+}
+
+#section-select {
+    padding: 8px 15px;
+    border: 2px solid var(--gold);
+    border-radius: 5px;
+    background-color: white;
+    font-family: inherit;
+    color: var(--ink-color);
+    cursor: pointer;
+    outline: none;
+    margin-left: 10px;
+}
+
+#section-select:focus {
+    border-color: var(--deep-blue);
+}
+
 /* Character Box */
 .character-box {
     display: flex;

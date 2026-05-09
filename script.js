@@ -1,4 +1,5 @@
-let problems = [];
+let allProblems = [];
+let filteredProblems = [];
 let currentProblemIndex = 0;
 
 const characters = [
@@ -11,40 +12,18 @@ const characters = [
 ];
 
 const nameMapping = {
-    "María": "Coco",
-    "Juan": "Qifrey",
-    "Ana": "Agott",
-    "Pedro": "Olruggio",
-    "Lucía": "Tetia",
-    "Luis": "Richeh",
-    "Tomás": "Qifrey",
-    "Sofía": "Coco",
-    "Carlos": "Olruggio",
-    "Eva": "Agott",
-    "Mateo": "Richeh",
-    "Sandra": "Tetia",
-    "Pablo": "Olruggio"
+    "María": "Coco", "Juan": "Qifrey", "Ana": "Agott", "Pedro": "Olruggio", "Lucía": "Tetia", "Luis": "Richeh",
+    "Tomás": "Qifrey", "Sofía": "Coco", "Carlos": "Olruggio", "Eva": "Agott", "Mateo": "Richeh", "Sandra": "Tetia",
+    "Pablo": "Olruggio", "Laura": "Tetia"
 };
 
 const objectMapping = {
-    "manzanas": "tinteros mágicos",
-    "caramelos": "sellos rúnicos",
-    "gatos": "dragones de papel",
-    "perros": "pinceles mágicos",
-    "bolitas": "gemas de luz",
-    "lápices": "pinceles de varita",
-    "flores": "flores de cristal de nieve",
-    "figuritas": "cartas mágicas",
-    "pesos": "monedas de plata",
-    "libros": "grimorios",
-    "estantes": "anaqueles de hechizos",
-    "galletas": "bayas mágicas",
-    "cinta": "cinta de conjuro",
-    "cuerda": "cordel de plata",
-    "chocolates": "pociones de energía"
+    "manzanas": "tinteros mágicos", "caramelos": "sellos rúnicos", "gatos": "dragones de papel", "perros": "pinceles mágicos",
+    "bolitas": "gemas de luz", "lápices": "pinceles de varita", "flores": "flores de cristal de nieve", "figuritas": "cartas mágicas",
+    "pesos": "monedas de plata", "libros": "grimorios", "estantes": "anaqueles de hechizos", "galletas": "bayas mágicas",
+    "cinta": "cinta de conjuro", "cuerda": "cordel de plata", "chocolates": "pociones de energía"
 };
 
-// UI Elements
 const problemText = document.getElementById('problem-text');
 const answerInput = document.getElementById('answer-input');
 const checkBtn = document.getElementById('check-btn');
@@ -53,17 +32,39 @@ const nextBtn = document.getElementById('next-btn');
 const feedback = document.getElementById('feedback');
 const teacherQuote = document.getElementById('teacher-quote');
 const characterImg = document.getElementById('character-img');
+const sectionSelect = document.getElementById('section-select');
 
 async function init() {
     try {
         const response = await fetch('data/problems.json');
-        problems = await response.json();
-        shuffle(problems);
-        showProblem();
+        allProblems = await response.json();
+        
+        // Populate sections
+        const sections = [...new Set(allProblems.map(p => p.section))].sort();
+        sections.forEach(s => {
+            const opt = document.createElement('option');
+            opt.value = s;
+            opt.innerText = s;
+            sectionSelect.appendChild(opt);
+        });
+
+        filterAndShow();
     } catch (err) {
-        problemText.innerText = "Error al cargar los hechizos (problemas). Asegúrate de que el servidor esté activo.";
+        problemText.innerText = "Error al cargar los hechizos. Asegúrate de que el servidor esté activo.";
         console.error(err);
     }
+}
+
+function filterAndShow() {
+    const selected = sectionSelect.value;
+    if (selected === 'all') {
+        filteredProblems = [...allProblems];
+    } else {
+        filteredProblems = allProblems.filter(p => p.section === selected);
+    }
+    shuffle(filteredProblems);
+    currentProblemIndex = 0;
+    showProblem();
 }
 
 function shuffle(array) {
@@ -75,32 +76,27 @@ function shuffle(array) {
 
 function tematize(text) {
     let newText = text;
-    
-    // Reemplazar nombres
     for (const [oldName, newName] of Object.entries(nameMapping)) {
-        const regex = new RegExp(oldName, 'g');
-        newText = newText.replace(regex, newName);
+        newText = newText.replace(new RegExp(oldName, 'g'), newName);
     }
-    
-    // Reemplazar objetos
     for (const [oldObj, newObj] of Object.entries(objectMapping)) {
-        const regex = new RegExp(oldObj, 'g');
-        newText = newText.replace(regex, newObj);
+        newText = newText.replace(new RegExp(oldObj, 'g'), newObj);
     }
-    
     return newText;
 }
 
 function showProblem() {
-    const problem = problems[currentProblemIndex];
+    if (filteredProblems.length === 0) {
+        problemText.innerText = "No hay problemas en esta sección.";
+        return;
+    }
+    const problem = filteredProblems[currentProblemIndex];
     problemText.innerText = tematize(problem.question);
     
-    // Cambiar frase del personaje e imagen
     const character = characters[Math.floor(Math.random() * characters.length)];
     teacherQuote.innerText = `"${character.quote}" — ${character.name}`;
     characterImg.style.backgroundImage = `url(${character.image})`;
     
-    // Reset UI
     answerInput.value = '';
     feedback.innerText = '';
     feedback.className = 'feedback-msg';
@@ -111,10 +107,8 @@ function showProblem() {
 
 function checkAnswer() {
     const userAnswer = answerInput.value.trim().toLowerCase();
-    const correctAnswer = problems[currentProblemIndex].answer.trim().toLowerCase();
+    const correctAnswer = filteredProblems[currentProblemIndex].answer.trim().toLowerCase();
     
-    // Limpieza básica de la respuesta del usuario para permitir formatos como "1/2" o decimales
-    // pero enfocándose en que el núcleo sea el número.
     if (userAnswer === correctAnswer) {
         feedback.innerText = "¡Excelente! El hechizo ha funcionado a la perfección.";
         feedback.className = "feedback-msg correct";
@@ -127,8 +121,7 @@ function checkAnswer() {
 }
 
 function showHint() {
-    const correctAnswer = problems[currentProblemIndex].answer;
-    feedback.innerText = `La respuesta correcta es: ${correctAnswer}`;
+    feedback.innerText = `La respuesta correcta es: ${filteredProblems[currentProblemIndex].answer}`;
     feedback.className = "feedback-msg";
     nextBtn.classList.remove('hidden');
 }
@@ -136,12 +129,10 @@ function showHint() {
 checkBtn.addEventListener('click', checkAnswer);
 hintBtn.addEventListener('click', showHint);
 nextBtn.addEventListener('click', () => {
-    currentProblemIndex = (currentProblemIndex + 1) % problems.length;
+    currentProblemIndex = (currentProblemIndex + 1) % filteredProblems.length;
     showProblem();
 });
-
-answerInput.addEventListener('keypress', (e) => {
-    if (e.key === 'Enter') checkAnswer();
-});
+sectionSelect.addEventListener('change', filterAndShow);
+answerInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') checkAnswer(); });
 
 init();

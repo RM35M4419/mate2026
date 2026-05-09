@@ -1,0 +1,19 @@
+#separator:tab
+#html:true
+#tags column:3
+$2,500 + $800 = 	3300	calculos-dinero
+$900 - $450 = 	450	calculos-dinero
+$120 + $75 = 	195	calculos-dinero
+$5,000 - $3,200 = 	1800	calculos-dinero
+$670 + $930 = 	1600	calculos-dinero
+$820 - $130 = 	690	calculos-dinero
+$450 + $110 = 	560	calculos-dinero
+$7,000 - $5,500 = 	1500	calculos-dinero
+$3,400 + $600 = 	4000	calculos-dinero
+$980 - $280 = 	700	calculos-dinero
+$150 + $75 = 	225	calculos-dinero
+$4,000 - $1,100 = 	2900	calculos-dinero
+$1,234 + $567 = 	1801	calculos-dinero
+$9,000 - $4,000 = 	5000	calculos-dinero
+$888 + $222 = 	1110	calculos-dinero
+$6,500 - $500 = 	6000	calculos-dinero

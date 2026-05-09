@@ -16,10 +16,23 @@ files.forEach(file => {
         
         const parts = line.split('\t');
         if (parts.length >= 2) {
+            const question = parts[0].trim();
+            const tagsStr = parts[2] ? parts[2].trim() : "";
+            
+            // Determinar sección basada en el archivo o tags
+            let section = "General";
+            if (file === "matematica-tablas.txt" || tagsStr.includes("multiplicacion")) section = "Multiplicación";
+            else if (tagsStr.includes("division")) section = "División";
+            else if (file === "calculos-horizontales.txt") section = "Cálculos Horizontales";
+            else if (file === "problemas-dinero.txt") section = "Problemas de Dinero";
+            else if (file === "problemas-identificar.txt") section = "Identificar Problema";
+            else if (tagsStr.includes("suma") || tagsStr.includes("resta")) section = "Suma y Resta";
+
             allProblems.push({
-                question: parts[0].trim(),
+                question: question,
                 answer: parts[1].trim(),
-                tags: parts[2] ? parts[2].trim().split(' ') : [],
+                tags: tagsStr.split(' '),
+                section: section,
                 source: file
             });
         }
