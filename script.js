@@ -3,12 +3,11 @@ let filteredProblems = [];
 let currentProblemIndex = 0;
 
 const characters = [
-    { name: "Qifrey", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1843900064.jpg", quote: "El dibujo de un círculo es la base de toda magia, y el cálculo su corazón." },
-    { name: "Olruggio", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1962014057.jpg", quote: "Incluso los objetos mágicos más complejos se rigen por las leyes de los números." },
-    { name: "Coco", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1485654334.jpg", quote: "¡He aprendido un nuevo hechizo de suma! ¿Puedes ayudarme?" },
-    { name: "Agott", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-11443936.jpg", quote: "La precisión es fundamental en el dibujo de runas. No te equivoques." },
-    { name: "Tetia", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-1945622719.jpg", quote: "¡Felicidades! Cada problema resuelto es como una nueva estrella en el cielo." },
-    { name: "Richeh", image: "https://ami.animecharactersdatabase.com/uploads/chars/thumbs/200/41903-795371726.jpg", quote: "Solo busco la magia que es única para mí, y eso requiere entender sus formas." }
+    { name: "Qifrey", image: "img/Qifrey.png", quote: "El dibujo de un círculo es la base de toda magia, y el cálculo su corazón." },
+    { name: "Coco", image: "img/Coco.png", quote: "¡He aprendido un nuevo hechizo de suma! ¿Puedes ayudarme?" },
+    { name: "Agott", image: "img/Agott.png", quote: "La precisión es fundamental en el dibujo de runas. No te equivoques." },
+    { name: "Tetia", image: "img/Tetia.png", quote: "¡Felicidades! Cada problema resuelto es como una nueva estrella en el cielo." },
+    { name: "Richeh", image: "img/Richeh.png", quote: "Solo busco la magia que es única para mí, y eso requiere entender sus formas." }
 ];
 
 const nameMapping = {
