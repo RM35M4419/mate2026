@@ -15,6 +15,13 @@
 
         <main id="app">
             <div class="left-side">
+                <div class="selector-container">
+                    <label for="section-select">Elige tu prueba:</label>
+                    <select id="section-select">
+                        <option value="all">Todas las artes</option>
+                    </select>
+                </div>
+
                 <div class="scroll-container">
                     <div class="scroll-content">
                         <div id="problem-container">
@@ -25,7 +32,7 @@
                             </div>
                             <div id="feedback" class="feedback-msg"></div>
                             <div class="actions">
-                                <button id="hint-btn" class="secondary-btn">Ver Respuesta</button>
+                                <button id="hint-btn" class="secondary-btn hidden">Ver Respuesta</button>
                                 <button id="next-btn" class="primary-btn hidden">Siguiente Problema</button>
                             </div>
                         </div>
