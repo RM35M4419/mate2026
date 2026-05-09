@@ -14,34 +14,38 @@
         </header>
 
         <main id="app">
-            <div class="selector-container">
-                <label for="section-select">Elige tu prueba:</label>
-                <select id="section-select">
-                    <option value="all">Todas las artes</option>
-                </select>
-            </div>
+            <div class="left-side">
+                <div class="selector-container">
+                    <label for="section-select">Elige tu prueba:</label>
+                    <select id="section-select">
+                        <option value="all">Todas las artes</option>
+                    </select>
+                </div>
 
-            <div id="character-area" class="character-box">
-                <div class="character-image" id="character-img"></div>
-                <div class="character-speech">
-                    <p id="teacher-quote">"El dibujo de un círculo es la base de toda magia, y el cálculo su corazón."</p>
+                <div class="scroll-container">
+                    <div class="scroll-content">
+                        <div id="problem-container">
+                            <p id="problem-text" class="problem-statement">Cargando problemas...</p>
+                            <div class="input-group">
+                                <input type="text" id="answer-input" placeholder="Tu respuesta..." autocomplete="off">
+                                <button id="check-btn">Lanzar Hechizo (Verificar)</button>
+                            </div>
+                            <div id="feedback" class="feedback-msg"></div>
+                            <div class="actions">
+                                <button id="hint-btn" class="secondary-btn">Ver Respuesta</button>
+                                <button id="next-btn" class="primary-btn hidden">Siguiente Problema</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="scroll-container">
-                <div class="scroll-content">
-                    <div id="problem-container">
-                        <p id="problem-text" class="problem-statement">Cargando problemas...</p>
-                        <div class="input-group">
-                            <input type="text" id="answer-input" placeholder="Tu respuesta..." autocomplete="off">
-                            <button id="check-btn">Lanzar Hechizo (Verificar)</button>
-                        </div>
-                        <div id="feedback" class="feedback-msg"></div>
-                        <div class="actions">
-                            <button id="hint-btn" class="secondary-btn">Ver Respuesta</button>
-                            <button id="next-btn" class="primary-btn hidden">Siguiente Problema</button>
-                        </div>
+            <div class="right-side">
+                <div id="character-area" class="character-box">
+                    <div class="character-speech">
+                        <p id="teacher-quote">"El dibujo de un círculo es la base de toda magia, y el cálculo su corazón."</p>
                     </div>
+                    <div class="character-image" id="character-img"></div>
                 </div>
             </div>
         </main>
