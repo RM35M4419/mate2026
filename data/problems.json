@@ -1,0 +1,3023 @@
+[
+  {
+    "question": "¿Cuántos dedos hay en una mano?",
+    "answer": "5",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Cuántos dedos hay en dos manos?",
+    "answer": "10",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Cuántos lados tiene un triángulo?",
+    "answer": "3",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Cuántos lados tiene un cuadrado?",
+    "answer": "4",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Completa: 1, 2, 3, 4, ___",
+    "answer": "5",
+    "tags": [
+      "conteo",
+      "secuencias"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Completa: 5, 6, 7, 8, ___",
+    "answer": "9",
+    "tags": [
+      "conteo",
+      "secuencias"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Completa: 10, 11, 12, 13, ___",
+    "answer": "14",
+    "tags": [
+      "conteo",
+      "secuencias"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Completa: 15, 16, 17, 18, ___",
+    "answer": "19",
+    "tags": [
+      "conteo",
+      "secuencias"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Qué número viene después de 19?",
+    "answer": "20",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Cuántas ruedas tiene un coche?",
+    "answer": "4",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Compara: 5 ___ 3 (mayor que, menor que, igual)",
+    "answer": "mayor que (>)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Compara: 7 ___ 7 (mayor que, menor que, igual)",
+    "answer": "igual (=)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Compara: 2 ___ 8 (mayor que, menor que, igual)",
+    "answer": "menor que (<)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Es 10 mayor o menor que 6?",
+    "answer": "mayor",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Es 4 mayor o menor que 9?",
+    "answer": "menor",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Compara: 15 ___ 12 (mayor que, menor que, igual)",
+    "answer": "mayor que (>)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Compara: 8 ___ 8 (mayor que, menor que, igual)",
+    "answer": "igual (=)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Es 3 igual a 3?",
+    "answer": "sí",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "1 + 1 =",
+    "answer": "2",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "2 + 2 =",
+    "answer": "4",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "3 + 2 =",
+    "answer": "5",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "4 + 3 =",
+    "answer": "7",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "5 + 2 =",
+    "answer": "7",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "6 + 2 =",
+    "answer": "8",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "7 + 1 =",
+    "answer": "8",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "5 + 5 =",
+    "answer": "10",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "8 + 2 =",
+    "answer": "10",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "9 + 1 =",
+    "answer": "10",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "6 + 3 =",
+    "answer": "9",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "7 + 2 =",
+    "answer": "9",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "8 + 1 =",
+    "answer": "9",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "3 + 5 =",
+    "answer": "8",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "4 + 4 =",
+    "answer": "8",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "2 + 6 =",
+    "answer": "8",
+    "tags": [
+      "suma",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "2 - 1 =",
+    "answer": "1",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "5 - 2 =",
+    "answer": "3",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "8 - 3 =",
+    "answer": "5",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "10 - 2 =",
+    "answer": "8",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "9 - 1 =",
+    "answer": "8",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "7 - 3 =",
+    "answer": "4",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "6 - 2 =",
+    "answer": "4",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "10 - 5 =",
+    "answer": "5",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "20 - 10 =",
+    "answer": "10",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "6 - 1 =",
+    "answer": "5",
+    "tags": [
+      "resta",
+      "basico"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "María tiene 3 manzanas y su mamá le da 2 más. ¿Cuántas manzanas tiene ahora?",
+    "answer": "5 manzanas",
+    "tags": [
+      "problemas",
+      "suma"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Juan tiene 8 caramelos y come 2. ¿Cuántos caramelos le quedan?",
+    "answer": "6 caramelos",
+    "tags": [
+      "problemas",
+      "resta"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Ana tiene 4 gatos y 5 perros. ¿Cuántos animales tiene en total?",
+    "answer": "9 animales",
+    "tags": [
+      "problemas",
+      "suma"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Pedro tenía 10 bolitas y perdió 3. ¿Cuántas bolitas le quedan?",
+    "answer": "7 bolitas",
+    "tags": [
+      "problemas",
+      "resta"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "En una caja hay 6 lápices rojos y 4 lápices azules. ¿Cuántos lápices hay en total?",
+    "answer": "10 lápices",
+    "tags": [
+      "problemas",
+      "suma"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "Lucía tenía 9 flores y regaló 4. ¿Cuántas flores le quedan?",
+    "answer": "5 flores",
+    "tags": [
+      "problemas",
+      "resta"
+    ],
+    "source": "matematica-elemental-1.txt"
+  },
+  {
+    "question": "¿Cuántas decenas tiene el número 45?",
+    "answer": "4 decenas (y 5 unidades)",
+    "tags": [
+      "valor-posicional",
+      "numeros"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuántas unidades tiene el número 67?",
+    "answer": "7 unidades",
+    "tags": [
+      "valor-posicional",
+      "numeros"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Completa: 30, 40, 50, ___",
+    "answer": "60",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Completa: 55, 60, 65, ___",
+    "answer": "70",
+    "tags": [
+      "conteo",
+      "numeros"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuánto es 10 + 10 + 10?",
+    "answer": "30",
+    "tags": [
+      "numeros",
+      "decenas"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuánto es 10 + 10 + 10 + 10?",
+    "answer": "40",
+    "tags": [
+      "numeros",
+      "decenas"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuánto es 10 × 5?",
+    "answer": "50",
+    "tags": [
+      "numeros",
+      "decenas"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuánto es 10 × 7?",
+    "answer": "70",
+    "tags": [
+      "numeros",
+      "decenas"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuánto es 10 × 9?",
+    "answer": "90",
+    "tags": [
+      "numeros",
+      "decenas"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "¿Cuánto es 10 × 10?",
+    "answer": "100",
+    "tags": [
+      "numeros",
+      "decenas"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Compara: 45 ___ 54 (mayor que, menor que, igual)",
+    "answer": "menor que (<)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Compara: 78 ___ 78 (mayor que, menor que, igual)",
+    "answer": "igual (=)",
+    "tags": [
+      "comparacion"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "12 + 8 =",
+    "answer": "20",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "15 + 7 =",
+    "answer": "22",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "14 + 6 =",
+    "answer": "20",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "18 + 5 =",
+    "answer": "23",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "19 + 3 =",
+    "answer": "22",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "24 + 8 =",
+    "answer": "32",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "27 + 5 =",
+    "answer": "32",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "28 + 4 =",
+    "answer": "32",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "35 + 7 =",
+    "answer": "42",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "38 + 6 =",
+    "answer": "44",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "45 + 8 =",
+    "answer": "53",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "47 + 6 =",
+    "answer": "53",
+    "tags": [
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "20 - 8 =",
+    "answer": "12",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "25 - 7 =",
+    "answer": "18",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "30 - 5 =",
+    "answer": "25",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "32 - 8 =",
+    "answer": "24",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "35 - 6 =",
+    "answer": "29",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "40 - 7 =",
+    "answer": "33",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "42 - 5 =",
+    "answer": "37",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "50 - 8 =",
+    "answer": "42",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "52 - 6 =",
+    "answer": "46",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "60 - 9 =",
+    "answer": "51",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "75 - 8 =",
+    "answer": "67",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "80 - 7 =",
+    "answer": "73",
+    "tags": [
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "2 × 2 =",
+    "answer": "4",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "2 × 5 =",
+    "answer": "10",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "2 × 8 =",
+    "answer": "16",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "5 × 3 =",
+    "answer": "15",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "5 × 6 =",
+    "answer": "30",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "5 × 9 =",
+    "answer": "45",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "10 × 3 =",
+    "answer": "30",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "10 × 8 =",
+    "answer": "80",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Tomás tiene 15 caramelos y su amigo le da 8 más. ¿Cuántos caramelos tiene ahora?",
+    "answer": "23 caramelos",
+    "tags": [
+      "problemas",
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Sofía tenía 32 figuritas y perdió 6. ¿Cuántas figuritas le quedan?",
+    "answer": "26 figuritas",
+    "tags": [
+      "problemas",
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Carlos compró 5 paquetes de lápices. Cada paquete tiene 10 lápices. ¿Cuántos lápices tiene en total?",
+    "answer": "50 lápices",
+    "tags": [
+      "problemas",
+      "multiplicacion"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Una tienda vendió 28 libros en la mañana y 15 libros en la tarde. ¿Cuántos libros vendió en total?",
+    "answer": "43 libros",
+    "tags": [
+      "problemas",
+      "suma-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "Eva tenía 50 pesos y gastó 18 pesos en una revista. ¿Cuántos pesos le quedan?",
+    "answer": "32 pesos",
+    "tags": [
+      "problemas",
+      "resta-llevada"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "En una escuela hay 4 aulas y en cada aula hay 9 estudiantes. ¿Cuántos estudiantes hay en total?",
+    "answer": "36 estudiantes",
+    "tags": [
+      "problemas",
+      "multiplicacion"
+    ],
+    "source": "matematica-elemental-2.txt"
+  },
+  {
+    "question": "3 × 1 =",
+    "answer": "3",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "3 × 4 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "3 × 7 =",
+    "answer": "21",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "4 × 2 =",
+    "answer": "8",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "4 × 5 =",
+    "answer": "20",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "4 × 8 =",
+    "answer": "32",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "6 × 3 =",
+    "answer": "18",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "6 × 6 =",
+    "answer": "36",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "6 × 9 =",
+    "answer": "54",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "7 × 2 =",
+    "answer": "14",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "7 × 7 =",
+    "answer": "49",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "8 × 4 =",
+    "answer": "32",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "8 × 8 =",
+    "answer": "64",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "9 × 3 =",
+    "answer": "27",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "9 × 9 =",
+    "answer": "81",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "9 × 10 =",
+    "answer": "90",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "4 ÷ 2 =",
+    "answer": "2",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "6 ÷ 3 =",
+    "answer": "2",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "8 ÷ 4 =",
+    "answer": "2",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "10 ÷ 5 =",
+    "answer": "2",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "9 ÷ 3 =",
+    "answer": "3",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "12 ÷ 4 =",
+    "answer": "3",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "15 ÷ 5 =",
+    "answer": "3",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "20 ÷ 5 =",
+    "answer": "4",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "24 ÷ 6 =",
+    "answer": "4",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "30 ÷ 10 =",
+    "answer": "3",
+    "tags": [
+      "division",
+      "basico"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuál es la mitad de 8?",
+    "answer": "4 (1/2 de 8 = 4)",
+    "tags": [
+      "fracciones",
+      "medios"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuál es la mitad de 10?",
+    "answer": "5 (1/2 de 10 = 5)",
+    "tags": [
+      "fracciones",
+      "medios"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuál es la mitad de 16?",
+    "answer": "8 (1/2 de 16 = 8)",
+    "tags": [
+      "fracciones",
+      "medios"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuál es la cuarta parte de 8?",
+    "answer": "2 (1/4 de 8 = 2)",
+    "tags": [
+      "fracciones",
+      "cuartos"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuál es la cuarta parte de 12?",
+    "answer": "3 (1/4 de 12 = 3)",
+    "tags": [
+      "fracciones",
+      "cuartos"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuál es la cuarta parte de 20?",
+    "answer": "5 (1/4 de 20 = 5)",
+    "tags": [
+      "fracciones",
+      "cuartos"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Si divides una pizza en 4 partes iguales y comes 1, ¿qué fracción comiste?",
+    "answer": "1/4",
+    "tags": [
+      "fracciones",
+      "conceptos"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Si divides un pastel en 2 partes iguales y comen 1 parte, ¿qué fracción queda?",
+    "answer": "1/2",
+    "tags": [
+      "fracciones",
+      "conceptos"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántos centímetros hay en 1 metro?",
+    "answer": "100 centímetros",
+    "tags": [
+      "medidas"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántos metros hay en 1 kilómetro?",
+    "answer": "1000 metros",
+    "tags": [
+      "medidas"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántas horas hay en 1 día?",
+    "answer": "24 horas",
+    "tags": [
+      "tiempo"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántos minutos hay en 1 hora?",
+    "answer": "60 minutos",
+    "tags": [
+      "tiempo"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántos segundos hay en 1 minuto?",
+    "answer": "60 segundos",
+    "tags": [
+      "tiempo"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántos gramos hay en 1 kilogramo?",
+    "answer": "1000 gramos",
+    "tags": [
+      "medidas"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "¿Cuántas monedas de 10 pesos hay en 100 pesos?",
+    "answer": "10 monedas",
+    "tags": [
+      "dinero"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Si tienes 3 monedas de 5 pesos, ¿cuánto dinero tienes?",
+    "answer": "15 pesos",
+    "tags": [
+      "dinero"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "En una biblioteca hay 8 estantes. En cada estante caben 7 libros. ¿Cuántos libros caben en total?",
+    "answer": "56 libros",
+    "tags": [
+      "problemas",
+      "multiplicacion"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Pablo tiene 24 caramelos y quiere repartirlos equitativamente entre 6 amigos. ¿Cuántos caramelos le toca a cada uno?",
+    "answer": "4 caramelos",
+    "tags": [
+      "problemas",
+      "division"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Una cuerda mide 16 metros. ¿Cuánto mide la mitad de la cuerda?",
+    "answer": "8 metros",
+    "tags": [
+      "problemas",
+      "fracciones"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Mateo compró 9 paquetes de galletas. Cada paquete cuesta 5 pesos. ¿Cuánto gastó en total?",
+    "answer": "45 pesos",
+    "tags": [
+      "problemas",
+      "multiplicacion",
+      "dinero"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Una cinta mide 20 centímetros. ¿Cuál es la cuarta parte de la cinta?",
+    "answer": "5 centímetros",
+    "tags": [
+      "problemas",
+      "fracciones",
+      "medidas"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "Sandra tiene 36 flores y quiere hacer 9 ramos iguales. ¿Cuántas flores irán en cada ramo?",
+    "answer": "4 flores",
+    "tags": [
+      "problemas",
+      "division"
+    ],
+    "source": "matematica-elemental-3.txt"
+  },
+  {
+    "question": "11 × 3 =",
+    "answer": "33",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "12 × 4 =",
+    "answer": "48",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "12 × 7 =",
+    "answer": "84",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "13 × 5 =",
+    "answer": "65",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "14 × 6 =",
+    "answer": "84",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "15 × 8 =",
+    "answer": "120",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "20 × 5 =",
+    "answer": "100",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "25 × 4 =",
+    "answer": "100",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "30 × 3 =",
+    "answer": "90",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "40 × 2 =",
+    "answer": "80",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "50 × 6 =",
+    "answer": "300",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "12 × 12 =",
+    "answer": "144",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "11 × 11 =",
+    "answer": "121",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "15 × 10 =",
+    "answer": "150",
+    "tags": [
+      "multiplicacion",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "32 ÷ 8 =",
+    "answer": "4",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "42 ÷ 7 =",
+    "answer": "6",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "54 ÷ 9 =",
+    "answer": "6",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "60 ÷ 6 =",
+    "answer": "10",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "72 ÷ 8 =",
+    "answer": "9",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "81 ÷ 9 =",
+    "answer": "9",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "100 ÷ 10 =",
+    "answer": "10",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "144 ÷ 12 =",
+    "answer": "12",
+    "tags": [
+      "division",
+      "numeros-mayores"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Son equivalentes 1/2 y 2/4?",
+    "answer": "sí",
+    "tags": [
+      "fracciones",
+      "equivalentes"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Son equivalentes 1/4 y 2/8?",
+    "answer": "sí",
+    "tags": [
+      "fracciones",
+      "equivalentes"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Son equivalentes 1/3 y 2/6?",
+    "answer": "sí",
+    "tags": [
+      "fracciones",
+      "equivalentes"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Son equivalentes 2/4 y 3/6?",
+    "answer": "sí",
+    "tags": [
+      "fracciones",
+      "equivalentes"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Qué fracción es equivalente a 1/2?",
+    "answer": "2/4, 3/6, 4/8, etc.",
+    "tags": [
+      "fracciones",
+      "equivalentes"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Qué fracción es equivalente a 2/3?",
+    "answer": "4/6, 6/9, 8/12, etc.",
+    "tags": [
+      "fracciones",
+      "equivalentes"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "1/2 + 1/4 =",
+    "answer": "3/4",
+    "tags": [
+      "fracciones",
+      "operaciones"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "1/3 + 1/3 =",
+    "answer": "2/3",
+    "tags": [
+      "fracciones",
+      "operaciones"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuál es el perímetro de un cuadrado cuyo lado mide 5 cm?",
+    "answer": "20 cm",
+    "tags": [
+      "geometria",
+      "perimetro"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuál es el perímetro de un rectángulo de 6 cm de largo y 3 cm de ancho?",
+    "answer": "18 cm",
+    "tags": [
+      "geometria",
+      "perimetro"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuál es el perímetro de un triángulo cuyos lados miden 4 cm, 5 cm y 6 cm?",
+    "answer": "15 cm",
+    "tags": [
+      "geometria",
+      "perimetro"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuál es el área de un cuadrado cuyo lado mide 4 cm?",
+    "answer": "16 cm²",
+    "tags": [
+      "geometria",
+      "area"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuál es el área de un rectángulo de 7 cm de largo y 5 cm de ancho?",
+    "answer": "35 cm²",
+    "tags": [
+      "geometria",
+      "area"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuál es el área de un rectángulo de 10 cm de largo y 6 cm de ancho?",
+    "answer": "60 cm²",
+    "tags": [
+      "geometria",
+      "area"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuántos ángulos tiene un triángulo?",
+    "answer": "3",
+    "tags": [
+      "geometria",
+      "figuras"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Cuántos ángulos rectos tiene un rectángulo?",
+    "answer": "4",
+    "tags": [
+      "geometria",
+      "figuras"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Qué es 0.5?",
+    "answer": "media unidad o 1/2",
+    "tags": [
+      "decimales",
+      "basico"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Qué es 0.25?",
+    "answer": "cuarta parte o 1/4",
+    "tags": [
+      "decimales",
+      "basico"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "¿Qué es 0.75?",
+    "answer": "tres cuartos o 3/4",
+    "tags": [
+      "decimales",
+      "basico"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "0.5 + 0.25 =",
+    "answer": "0.75",
+    "tags": [
+      "decimales",
+      "operaciones"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "Una cancha de fútbol tiene 90 metros de largo y 45 metros de ancho. ¿Cuál es su perímetro?",
+    "answer": "270 metros",
+    "tags": [
+      "problemas",
+      "geometria"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "Un terreno rectangular mide 12 metros de largo y 8 metros de ancho. ¿Cuál es su área?",
+    "answer": "96 m²",
+    "tags": [
+      "problemas",
+      "geometria"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "Si una caja contiene 36 chocolates y quieres repartirlos en 9 bolsas iguales, ¿cuántos chocolates irán en cada bolsa?",
+    "answer": "4 chocolates",
+    "tags": [
+      "problemas",
+      "division"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "Un pastel se corta en 8 partes iguales. Si se comen 2 partes, ¿qué fracción queda?",
+    "answer": "6/8 o 3/4",
+    "tags": [
+      "problemas",
+      "fracciones"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "Una libreta cuesta 15 pesos. ¿Cuánto cuestan 12 libretas?",
+    "answer": "180 pesos",
+    "tags": [
+      "problemas",
+      "multiplicacion"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "Un rectángulo tiene 0.5 metros de ancho y 2 metros de largo. ¿Cuál es su área?",
+    "answer": "1 m²",
+    "tags": [
+      "problemas",
+      "geometria",
+      "decimales"
+    ],
+    "source": "matematica-elemental-4.txt"
+  },
+  {
+    "question": "1 × 1 =",
+    "answer": "1",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 2 =",
+    "answer": "2",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 3 =",
+    "answer": "3",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 4 =",
+    "answer": "4",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 5 =",
+    "answer": "5",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 6 =",
+    "answer": "6",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 7 =",
+    "answer": "7",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 8 =",
+    "answer": "8",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 9 =",
+    "answer": "9",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 10 =",
+    "answer": "10",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 11 =",
+    "answer": "11",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "1 × 12 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-1"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 1 =",
+    "answer": "2",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 2 =",
+    "answer": "4",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 3 =",
+    "answer": "6",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 4 =",
+    "answer": "8",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 5 =",
+    "answer": "10",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 6 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 7 =",
+    "answer": "14",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 8 =",
+    "answer": "16",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 9 =",
+    "answer": "18",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 10 =",
+    "answer": "20",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 11 =",
+    "answer": "22",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "2 × 12 =",
+    "answer": "24",
+    "tags": [
+      "multiplicacion",
+      "tabla-2"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 1 =",
+    "answer": "3",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 2 =",
+    "answer": "6",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 3 =",
+    "answer": "9",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 4 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 5 =",
+    "answer": "15",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 6 =",
+    "answer": "18",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 7 =",
+    "answer": "21",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 8 =",
+    "answer": "24",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 9 =",
+    "answer": "27",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 10 =",
+    "answer": "30",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 11 =",
+    "answer": "33",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "3 × 12 =",
+    "answer": "36",
+    "tags": [
+      "multiplicacion",
+      "tabla-3"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 1 =",
+    "answer": "4",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 2 =",
+    "answer": "8",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 3 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 4 =",
+    "answer": "16",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 5 =",
+    "answer": "20",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 6 =",
+    "answer": "24",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 7 =",
+    "answer": "28",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 8 =",
+    "answer": "32",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 9 =",
+    "answer": "36",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 10 =",
+    "answer": "40",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 11 =",
+    "answer": "44",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "4 × 12 =",
+    "answer": "48",
+    "tags": [
+      "multiplicacion",
+      "tabla-4"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 1 =",
+    "answer": "5",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 2 =",
+    "answer": "10",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 3 =",
+    "answer": "15",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 4 =",
+    "answer": "20",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 5 =",
+    "answer": "25",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 6 =",
+    "answer": "30",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 7 =",
+    "answer": "35",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 8 =",
+    "answer": "40",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 9 =",
+    "answer": "45",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 10 =",
+    "answer": "50",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 11 =",
+    "answer": "55",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "5 × 12 =",
+    "answer": "60",
+    "tags": [
+      "multiplicacion",
+      "tabla-5"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 1 =",
+    "answer": "6",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 2 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 3 =",
+    "answer": "18",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 4 =",
+    "answer": "24",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 5 =",
+    "answer": "30",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 6 =",
+    "answer": "36",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 7 =",
+    "answer": "42",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 8 =",
+    "answer": "48",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 9 =",
+    "answer": "54",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 10 =",
+    "answer": "60",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 11 =",
+    "answer": "66",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "6 × 12 =",
+    "answer": "72",
+    "tags": [
+      "multiplicacion",
+      "tabla-6"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 1 =",
+    "answer": "7",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 2 =",
+    "answer": "14",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 3 =",
+    "answer": "21",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 4 =",
+    "answer": "28",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 5 =",
+    "answer": "35",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 6 =",
+    "answer": "42",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 7 =",
+    "answer": "49",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 8 =",
+    "answer": "56",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 9 =",
+    "answer": "63",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 10 =",
+    "answer": "70",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 11 =",
+    "answer": "77",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "7 × 12 =",
+    "answer": "84",
+    "tags": [
+      "multiplicacion",
+      "tabla-7"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 1 =",
+    "answer": "8",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 2 =",
+    "answer": "16",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 3 =",
+    "answer": "24",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 4 =",
+    "answer": "32",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 5 =",
+    "answer": "40",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 6 =",
+    "answer": "48",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 7 =",
+    "answer": "56",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 8 =",
+    "answer": "64",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 9 =",
+    "answer": "72",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 10 =",
+    "answer": "80",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 11 =",
+    "answer": "88",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "8 × 12 =",
+    "answer": "96",
+    "tags": [
+      "multiplicacion",
+      "tabla-8"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 1 =",
+    "answer": "9",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 2 =",
+    "answer": "18",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 3 =",
+    "answer": "27",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 4 =",
+    "answer": "36",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 5 =",
+    "answer": "45",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 6 =",
+    "answer": "54",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 7 =",
+    "answer": "63",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 8 =",
+    "answer": "72",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 9 =",
+    "answer": "81",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 10 =",
+    "answer": "90",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 11 =",
+    "answer": "99",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "9 × 12 =",
+    "answer": "108",
+    "tags": [
+      "multiplicacion",
+      "tabla-9"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 1 =",
+    "answer": "10",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 2 =",
+    "answer": "20",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 3 =",
+    "answer": "30",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 4 =",
+    "answer": "40",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 5 =",
+    "answer": "50",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 6 =",
+    "answer": "60",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 7 =",
+    "answer": "70",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 8 =",
+    "answer": "80",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 9 =",
+    "answer": "90",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 10 =",
+    "answer": "100",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 11 =",
+    "answer": "110",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "10 × 12 =",
+    "answer": "120",
+    "tags": [
+      "multiplicacion",
+      "tabla-10"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 1 =",
+    "answer": "11",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 2 =",
+    "answer": "22",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 3 =",
+    "answer": "33",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 4 =",
+    "answer": "44",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 5 =",
+    "answer": "55",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 6 =",
+    "answer": "66",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 7 =",
+    "answer": "77",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 8 =",
+    "answer": "88",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 9 =",
+    "answer": "99",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 10 =",
+    "answer": "110",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 11 =",
+    "answer": "121",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "11 × 12 =",
+    "answer": "132",
+    "tags": [
+      "multiplicacion",
+      "tabla-11"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 1 =",
+    "answer": "12",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 2 =",
+    "answer": "24",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 3 =",
+    "answer": "36",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 4 =",
+    "answer": "48",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 5 =",
+    "answer": "60",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 6 =",
+    "answer": "72",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 7 =",
+    "answer": "84",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 8 =",
+    "answer": "96",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 9 =",
+    "answer": "108",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 10 =",
+    "answer": "120",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 11 =",
+    "answer": "132",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  },
+  {
+    "question": "12 × 12 =",
+    "answer": "144",
+    "tags": [
+      "multiplicacion",
+      "tabla-12"
+    ],
+    "source": "matematica-tablas.txt"
+  }
+]

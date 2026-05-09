@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#tags column:3
+3 × 1 = 	3	multiplicacion tabla-3
+3 × 4 = 	12	multiplicacion tabla-3
+3 × 7 = 	21	multiplicacion tabla-3
+4 × 2 = 	8	multiplicacion tabla-4
+4 × 5 = 	20	multiplicacion tabla-4
+4 × 8 = 	32	multiplicacion tabla-4
+6 × 3 = 	18	multiplicacion tabla-6
+6 × 6 = 	36	multiplicacion tabla-6
+6 × 9 = 	54	multiplicacion tabla-6
+7 × 2 = 	14	multiplicacion tabla-7
+7 × 7 = 	49	multiplicacion tabla-7
+8 × 4 = 	32	multiplicacion tabla-8
+8 × 8 = 	64	multiplicacion tabla-8
+9 × 3 = 	27	multiplicacion tabla-9
+9 × 9 = 	81	multiplicacion tabla-9
+9 × 10 = 	90	multiplicacion tabla-9
+4 ÷ 2 = 	2	division basico
+6 ÷ 3 = 	2	division basico
+8 ÷ 4 = 	2	division basico
+10 ÷ 5 = 	2	division basico
+9 ÷ 3 = 	3	division basico
+12 ÷ 4 = 	3	division basico
+15 ÷ 5 = 	3	division basico
+20 ÷ 5 = 	4	division basico
+24 ÷ 6 = 	4	division basico
+30 ÷ 10 = 	3	division basico
+¿Cuál es la mitad de 8?	4 (1/2 de 8 = 4)	fracciones medios
+¿Cuál es la mitad de 10?	5 (1/2 de 10 = 5)	fracciones medios
+¿Cuál es la mitad de 16?	8 (1/2 de 16 = 8)	fracciones medios
+¿Cuál es la cuarta parte de 8?	2 (1/4 de 8 = 2)	fracciones cuartos
+¿Cuál es la cuarta parte de 12?	3 (1/4 de 12 = 3)	fracciones cuartos
+¿Cuál es la cuarta parte de 20?	5 (1/4 de 20 = 5)	fracciones cuartos
+Si divides una pizza en 4 partes iguales y comes 1, ¿qué fracción comiste?	1/4	fracciones conceptos
+Si divides un pastel en 2 partes iguales y comen 1 parte, ¿qué fracción queda?	1/2	fracciones conceptos
+¿Cuántos centímetros hay en 1 metro?	100 centímetros	medidas
+¿Cuántos metros hay en 1 kilómetro?	1000 metros	medidas
+¿Cuántas horas hay en 1 día?	24 horas	tiempo
+¿Cuántos minutos hay en 1 hora?	60 minutos	tiempo
+¿Cuántos segundos hay en 1 minuto?	60 segundos	tiempo
+¿Cuántos gramos hay en 1 kilogramo?	1000 gramos	medidas
+¿Cuántas monedas de 10 pesos hay en 100 pesos?	10 monedas	dinero
+Si tienes 3 monedas de 5 pesos, ¿cuánto dinero tienes?	15 pesos	dinero
+En una biblioteca hay 8 estantes. En cada estante caben 7 libros. ¿Cuántos libros caben en total?	56 libros	problemas multiplicacion
+Pablo tiene 24 caramelos y quiere repartirlos equitativamente entre 6 amigos. ¿Cuántos caramelos le toca a cada uno?	4 caramelos	problemas division
+Una cuerda mide 16 metros. ¿Cuánto mide la mitad de la cuerda?	8 metros	problemas fracciones
+Mateo compró 9 paquetes de galletas. Cada paquete cuesta 5 pesos. ¿Cuánto gastó en total?	45 pesos	problemas multiplicacion dinero
+Una cinta mide 20 centímetros. ¿Cuál es la cuarta parte de la cinta?	5 centímetros	problemas fracciones medidas
+Sandra tiene 36 flores y quiere hacer 9 ramos iguales. ¿Cuántas flores irán en cada ramo?	4 flores	problemas division

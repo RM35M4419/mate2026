@@ -1,0 +1,53 @@
+#separator:tab
+#html:true
+#tags column:3
+¿Cuántas decenas tiene el número 45?	4 decenas (y 5 unidades)	valor-posicional numeros
+¿Cuántas unidades tiene el número 67?	7 unidades	valor-posicional numeros
+Completa: 30, 40, 50, ___	60	conteo numeros
+Completa: 55, 60, 65, ___	70	conteo numeros
+¿Cuánto es 10 + 10 + 10?	30	numeros decenas
+¿Cuánto es 10 + 10 + 10 + 10?	40	numeros decenas
+¿Cuánto es 10 × 5?	50	numeros decenas
+¿Cuánto es 10 × 7?	70	numeros decenas
+¿Cuánto es 10 × 9?	90	numeros decenas
+¿Cuánto es 10 × 10?	100	numeros decenas
+Compara: 45 ___ 54 (mayor que, menor que, igual)	menor que (<)	comparacion
+Compara: 78 ___ 78 (mayor que, menor que, igual)	igual (=)	comparacion
+12 + 8 = 	20	suma-llevada
+15 + 7 = 	22	suma-llevada
+14 + 6 = 	20	suma-llevada
+18 + 5 = 	23	suma-llevada
+19 + 3 = 	22	suma-llevada
+24 + 8 = 	32	suma-llevada
+27 + 5 = 	32	suma-llevada
+28 + 4 = 	32	suma-llevada
+35 + 7 = 	42	suma-llevada
+38 + 6 = 	44	suma-llevada
+45 + 8 = 	53	suma-llevada
+47 + 6 = 	53	suma-llevada
+20 - 8 = 	12	resta-llevada
+25 - 7 = 	18	resta-llevada
+30 - 5 = 	25	resta-llevada
+32 - 8 = 	24	resta-llevada
+35 - 6 = 	29	resta-llevada
+40 - 7 = 	33	resta-llevada
+42 - 5 = 	37	resta-llevada
+50 - 8 = 	42	resta-llevada
+52 - 6 = 	46	resta-llevada
+60 - 9 = 	51	resta-llevada
+75 - 8 = 	67	resta-llevada
+80 - 7 = 	73	resta-llevada
+2 × 2 = 	4	multiplicacion tabla-2
+2 × 5 = 	10	multiplicacion tabla-2
+2 × 8 = 	16	multiplicacion tabla-2
+5 × 3 = 	15	multiplicacion tabla-5
+5 × 6 = 	30	multiplicacion tabla-5
+5 × 9 = 	45	multiplicacion tabla-5
+10 × 3 = 	30	multiplicacion tabla-10
+10 × 8 = 	80	multiplicacion tabla-10
+Tomás tiene 15 caramelos y su amigo le da 8 más. ¿Cuántos caramelos tiene ahora?	23 caramelos	problemas suma-llevada
+Sofía tenía 32 figuritas y perdió 6. ¿Cuántas figuritas le quedan?	26 figuritas	problemas resta-llevada
+Carlos compró 5 paquetes de lápices. Cada paquete tiene 10 lápices. ¿Cuántos lápices tiene en total?	50 lápices	problemas multiplicacion
+Una tienda vendió 28 libros en la mañana y 15 libros en la tarde. ¿Cuántos libros vendió en total?	43 libros	problemas suma-llevada
+Eva tenía 50 pesos y gastó 18 pesos en una revista. ¿Cuántos pesos le quedan?	32 pesos	problemas resta-llevada
+En una escuela hay 4 aulas y en cada aula hay 9 estudiantes. ¿Cuántos estudiantes hay en total?	36 estudiantes	problemas multiplicacion

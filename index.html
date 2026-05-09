@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atelier Mate - Práctica de Hechicería Matemática</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Atelier Mate</h1>
+            <p class="subtitle">Práctica de Hechicería Matemática</p>
+        </header>
+
+        <main id="app">
+            <div id="character-area" class="character-box">
+                <div class="character-image" id="character-img"></div>
+                <div class="character-speech">
+                    <p id="teacher-quote">"El dibujo de un círculo es la base de toda magia, y el cálculo su corazón."</p>
+                </div>
+            </div>
+
+            <div class="scroll-container">
+                <div class="scroll-content">
+                    <div id="problem-container">
+                        <p id="problem-text" class="problem-statement">Cargando problemas...</p>
+                        <div class="input-group">
+                            <input type="text" id="answer-input" placeholder="Tu respuesta..." autocomplete="off">
+                            <button id="check-btn">Lanzar Hechizo (Verificar)</button>
+                        </div>
+                        <div id="feedback" class="feedback-msg"></div>
+                        <div class="actions">
+                            <button id="hint-btn" class="secondary-btn">Ver Respuesta</button>
+                            <button id="next-btn" class="primary-btn hidden">Siguiente Problema</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>Atelier of Witch Hat Fan Project</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
