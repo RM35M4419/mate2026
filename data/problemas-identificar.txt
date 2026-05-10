@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #tags column:3
-Marca cuál cálculo sirve para resolver: El papá tiene $500 y necesita comprar una mesa de $875. ¿Cuánto le falta? (1: 500+875, 2: 875-500, 3: 875/500)	2	identificar-problema
-Marca cuál cálculo sirve para resolver: En caja hay $2,500. Se sacan $650 y se reciben $300. ¿Cuánto queda? (1: 2500+650, 2: 2500-650+300, 3: 2500/1000)	2	identificar-problema
-Marca cuál cálculo sirve para resolver: María juntó $4,200. Pagó $750 y recibió $1,000. ¿Cuánto tiene ahora? (1: 4200+750, 2: 4200-750+1000, 3: 4200/2)	2	identificar-problema
-Marca cuál cálculo sirve para resolver: Inventario de $9,800. Pierden $1,500 y venden $3,200. ¿Valor final? (1: 9800+1500, 2: 9800-1500-3200, 3: 9800/2)	2	identificar-problema
+El papá tiene $500 y necesita comprar una mesa de $875. ¿Cuánto le falta?<br>A) 500 + 875 = 1375<br>B) 875 - 500 = 375<br>C) 875 / 500 = 1.75	B	identificar-problema
+En caja hay $2,500. Se sacan $650 y se reciben $300. ¿Cuánto queda?<br>A) 2500 + 650 = 3150<br>B) 2500 - 650 + 300 = 1550<br>C) 2500 / 1000 = 2.5	B	identificar-problema
+María juntó $4,200. Pagó $750 y recibió $1,000. ¿Cuánto tiene ahora?<br>A) 4200 + 750 = 4950<br>B) 4200 - 750 + 1000 = 4450<br>C) 4200 / 2 = 2100	B	identificar-problema
+Inventario de $9,800. Pierden $1,500 y venden $3,200. ¿Valor final?<br>A) 9800 + 1500 = 11300<br>B) 9800 - 1500 - 3200 = 5100<br>C) 9800 / 2 = 4900	B	identificar-problema

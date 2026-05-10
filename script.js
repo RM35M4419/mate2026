@@ -92,7 +92,8 @@ function showProblem() {
         return;
     }
     const problem = filteredProblems[currentProblemIndex];
-    problemText.innerText = tematize(problem.question);
+    // Usamos innerHTML para renderizar el <br> que añadimos en los archivos de datos
+    problemText.innerHTML = tematize(problem.question);
     
     const character = characters[Math.floor(Math.random() * characters.length)];
     teacherQuote.innerText = `"${character.quote}" — ${character.name}`;
@@ -113,6 +114,7 @@ function checkAnswer() {
     const userAnswer = answerInput.value.trim().toLowerCase();
     const correctAnswer = filteredProblems[currentProblemIndex].answer.trim().toLowerCase();
     
+    // Ahora aceptamos letras A, B, C y números
     if (userAnswer === correctAnswer) {
         feedback.innerText = "¡Excelente! El hechizo ha funcionado a la perfección.";
         feedback.className = "feedback-msg correct";
