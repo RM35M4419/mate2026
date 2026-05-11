@@ -4,56 +4,77 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matemática del Atelier</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Matemática del Atelier</h1>
-            <p class="subtitle">Práctica de Hechicería Matemática</p>
-        </header>
 
-        <main id="app">
-            <div class="left-side">
-                <div class="selector-container">
-                    <label for="section-select">Elige tu prueba:</label>
-                    <select id="section-select">
-                        <option value="all">Todas las artes</option>
+    <div class="main-content">
+        <div class="grimoire-container">
+            
+            <header>
+                <h1 id="title"><i class="fa-solid fa-hat-wizard"></i> Matemática del Atelier</h1>
+                <p class="subtitle">Práctica de Hechicería Matemática</p>
+            </header>
+
+            <div class="progress-wrapper">
+                <div class="progress-label">Nivel de Tinta Mágica</div>
+                <div class="progress-bar">
+                    <div id="ink-fill" class="ink-fill"></div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <label for="category-select"><i class="fa-solid fa-book-journal-whills"></i> Elige tu prueba:</label>
+                <select id="category-select">
+                    <option value="all">Todas las artes</option>
                     </select>
-                </div>
-
-                <div class="scroll-container">
-                    <div class="scroll-content">
-                        <div id="problem-container">
-                            <p id="problem-text" class="problem-statement">Cargando problemas...</p>
-                            <div class="input-group">
-                                <input type="text" id="answer-input" placeholder="Tu respuesta..." autocomplete="off">
-                                <button id="check-btn">Lanzar Hechizo (Verificar)</button>
-                            </div>
-                            <div id="feedback" class="feedback-msg"></div>
-                            <div class="actions">
-                                <button id="hint-btn" class="secondary-btn hidden">Ver Respuesta</button>
-                                <button id="next-btn" class="primary-btn hidden">Siguiente Problema</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
 
-            <div class="right-side">
-                <div id="character-area" class="character-box">
-                    <div class="character-speech">
-                        <p id="teacher-quote">"El dibujo de un círculo es la base de toda magia, y el cálculo su corazón."</p>
+            <main id="problem-card" class="problem-card fade-in">
+                <div id="loading">Cargando problemas desde el tintero...</div>
+                
+                <div id="problem-content" class="hidden">
+                    <h2 id="problem-category" class="category-badge">Categoría</h2>
+                    <p id="problem-text" class="problem-text">Aquí aparecerá el problema mágico.</p>
+                    
+                    <div class="input-group">
+                        <input type="text" id="user-answer" placeholder="Traza tu respuesta aquí..." autocomplete="off">
                     </div>
-                    <div class="character-image" id="character-img"></div>
-                </div>
-            </div>
-        </main>
 
-        <footer>
-            <p>Atelier of Witch Hat Fan Project</p>
-        </footer>
+                    <div id="feedback-message" class="feedback-message"></div>
+
+                    <div class="action-buttons">
+                        <button id="btn-hint" class="btn btn-secondary"><i class="fa-solid fa-lightbulb"></i> Pedir pista a Qifrey</button>
+                        <button id="btn-submit" class="btn btn-primary"><i class="fa-solid fa-wand-magic-sparkles"></i> Lanzar Hechizo</button>
+                    </div>
+                    
+                    <div class="secondary-actions">
+                        <button id="btn-show-answer" class="btn btn-text hidden"><i class="fa-solid fa-eye"></i> Ver Respuesta</button>
+                        <button id="btn-next" class="btn btn-next hidden">Siguiente Problema <i class="fa-solid fa-arrow-right"></i></button>
+                    </div>
+                </div>
+            </main>
+
+            <footer>
+                <div class="divider"><i class="fa-solid fa-pen-nib"></i></div>
+                <p id="quote" class="quote">"El dibujo de un círculo es la base de toda magia, y el cálculo su corazón."</p>
+                <p class="credits">Atelier of Witch Hat Fan Project</p>
+            </footer>
+
+        </div>
+
+        <div class="character-container">
+            <div id="character-img" class="character-img"></div>
+        </div>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>

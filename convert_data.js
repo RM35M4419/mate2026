@@ -19,20 +19,20 @@ files.forEach(file => {
             const question = parts[0].trim();
             const tagsStr = parts[2] ? parts[2].trim() : "";
             
-            // Determinar sección basada en el archivo o tags
-            let section = "General";
-            if (file === "matematica-tablas.txt" || tagsStr.includes("multiplicacion")) section = "Multiplicación";
-            else if (tagsStr.includes("division")) section = "División";
-            else if (file === "calculos-horizontales.txt") section = "Cálculos Horizontales";
-            else if (file === "problemas-dinero.txt") section = "Problemas de Dinero";
-            else if (file === "problemas-identificar.txt") section = "Identificar Problema";
-            else if (tagsStr.includes("suma") || tagsStr.includes("resta")) section = "Suma y Resta";
+            // Determinar categoría basada en el archivo o tags
+            let category = "General";
+            if (file === "matematica-tablas.txt" || tagsStr.includes("multiplicacion")) category = "Multiplicación";
+            else if (tagsStr.includes("division")) category = "División";
+            else if (file === "calculos-horizontales.txt") category = "Cálculos Horizontales";
+            else if (file === "problemas-dinero.txt") category = "Problemas de Dinero";
+            else if (file === "problemas-identificar.txt") category = "Identificar Problema";
+            else if (tagsStr.includes("suma") || tagsStr.includes("resta")) category = "Suma y Resta";
 
             allProblems.push({
                 question: question,
                 answer: parts[1].trim(),
                 tags: tagsStr.split(' '),
-                section: section,
+                category: category,
                 source: file
             });
         }

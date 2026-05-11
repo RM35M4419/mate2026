@@ -5,7 +5,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -14,7 +14,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -23,7 +23,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -32,7 +32,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -41,7 +41,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -50,7 +50,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -59,7 +59,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -68,7 +68,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -77,7 +77,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -86,7 +86,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -95,7 +95,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -104,7 +104,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -113,7 +113,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -122,7 +122,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -131,7 +131,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -140,7 +140,7 @@
     "tags": [
       "calculos-dinero"
     ],
-    "section": "Cálculos Horizontales",
+    "category": "Cálculos Horizontales",
     "source": "calculos-horizontales.txt"
   },
   {
@@ -150,7 +150,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -160,7 +160,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -170,7 +170,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -180,7 +180,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -190,7 +190,7 @@
       "conteo",
       "secuencias"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -200,7 +200,7 @@
       "conteo",
       "secuencias"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -210,7 +210,7 @@
       "conteo",
       "secuencias"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -220,7 +220,7 @@
       "conteo",
       "secuencias"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -230,7 +230,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -240,7 +240,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -249,7 +249,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -258,7 +258,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -267,7 +267,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -276,7 +276,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -285,7 +285,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -294,7 +294,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -303,7 +303,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -312,7 +312,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -322,7 +322,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -332,7 +332,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -342,7 +342,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -352,7 +352,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -362,7 +362,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -372,7 +372,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -382,7 +382,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -392,7 +392,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -402,7 +402,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -412,7 +412,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -422,7 +422,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -432,7 +432,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -442,7 +442,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -452,7 +452,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -462,7 +462,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -472,7 +472,7 @@
       "suma",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -482,7 +482,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -492,7 +492,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -502,7 +502,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -512,7 +512,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -522,7 +522,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -532,7 +532,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -542,7 +542,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -552,7 +552,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -562,7 +562,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -572,7 +572,7 @@
       "resta",
       "basico"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -582,7 +582,7 @@
       "problemas",
       "suma"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -592,7 +592,7 @@
       "problemas",
       "resta"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -602,7 +602,7 @@
       "problemas",
       "suma"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -612,7 +612,7 @@
       "problemas",
       "resta"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -622,7 +622,7 @@
       "problemas",
       "suma"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -632,7 +632,7 @@
       "problemas",
       "resta"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-1.txt"
   },
   {
@@ -642,7 +642,7 @@
       "valor-posicional",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -652,7 +652,7 @@
       "valor-posicional",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -662,7 +662,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -672,7 +672,7 @@
       "conteo",
       "numeros"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -682,7 +682,7 @@
       "numeros",
       "decenas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -692,7 +692,7 @@
       "numeros",
       "decenas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -702,7 +702,7 @@
       "numeros",
       "decenas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -712,7 +712,7 @@
       "numeros",
       "decenas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -722,7 +722,7 @@
       "numeros",
       "decenas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -732,7 +732,7 @@
       "numeros",
       "decenas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -741,7 +741,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -750,7 +750,7 @@
     "tags": [
       "comparacion"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -759,7 +759,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -768,7 +768,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -777,7 +777,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -786,7 +786,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -795,7 +795,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -804,7 +804,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -813,7 +813,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -822,7 +822,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -831,7 +831,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -840,7 +840,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -849,7 +849,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -858,7 +858,7 @@
     "tags": [
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -867,7 +867,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -876,7 +876,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -885,7 +885,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -894,7 +894,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -903,7 +903,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -912,7 +912,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -921,7 +921,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -930,7 +930,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -939,7 +939,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -948,7 +948,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -957,7 +957,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -966,7 +966,7 @@
     "tags": [
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -976,7 +976,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -986,7 +986,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -996,7 +996,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1006,7 +1006,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1016,7 +1016,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1026,7 +1026,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1036,7 +1036,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1046,7 +1046,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1056,7 +1056,7 @@
       "problemas",
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1066,7 +1066,7 @@
       "problemas",
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1076,7 +1076,7 @@
       "problemas",
       "multiplicacion"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1086,7 +1086,7 @@
       "problemas",
       "suma-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1096,7 +1096,7 @@
       "problemas",
       "resta-llevada"
     ],
-    "section": "Suma y Resta",
+    "category": "Suma y Resta",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1106,7 +1106,7 @@
       "problemas",
       "multiplicacion"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-2.txt"
   },
   {
@@ -1116,7 +1116,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1126,7 +1126,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1136,7 +1136,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1146,7 +1146,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1156,7 +1156,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1166,7 +1166,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1176,7 +1176,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1186,7 +1186,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1196,7 +1196,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1206,7 +1206,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1216,7 +1216,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1226,7 +1226,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1236,7 +1236,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1246,7 +1246,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1256,7 +1256,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1266,7 +1266,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1276,7 +1276,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1286,7 +1286,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1296,7 +1296,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1306,7 +1306,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1316,7 +1316,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1326,7 +1326,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1336,7 +1336,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1346,7 +1346,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1356,7 +1356,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1366,7 +1366,7 @@
       "division",
       "basico"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1376,7 +1376,7 @@
       "fracciones",
       "medios"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1386,7 +1386,7 @@
       "fracciones",
       "medios"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1396,7 +1396,7 @@
       "fracciones",
       "medios"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1406,7 +1406,7 @@
       "fracciones",
       "cuartos"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1416,7 +1416,7 @@
       "fracciones",
       "cuartos"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1426,7 +1426,7 @@
       "fracciones",
       "cuartos"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1436,7 +1436,7 @@
       "fracciones",
       "conceptos"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1446,7 +1446,7 @@
       "fracciones",
       "conceptos"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1455,7 +1455,7 @@
     "tags": [
       "medidas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1464,7 +1464,7 @@
     "tags": [
       "medidas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1473,7 +1473,7 @@
     "tags": [
       "tiempo"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1482,7 +1482,7 @@
     "tags": [
       "tiempo"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1491,7 +1491,7 @@
     "tags": [
       "tiempo"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1500,7 +1500,7 @@
     "tags": [
       "medidas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1509,7 +1509,7 @@
     "tags": [
       "dinero"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1518,7 +1518,7 @@
     "tags": [
       "dinero"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1528,7 +1528,7 @@
       "problemas",
       "multiplicacion"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1538,7 +1538,7 @@
       "problemas",
       "division"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1548,7 +1548,7 @@
       "problemas",
       "fracciones"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1559,7 +1559,7 @@
       "multiplicacion",
       "dinero"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1570,7 +1570,7 @@
       "fracciones",
       "medidas"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1580,7 +1580,7 @@
       "problemas",
       "division"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-3.txt"
   },
   {
@@ -1590,7 +1590,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1600,7 +1600,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1610,7 +1610,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1620,7 +1620,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1630,7 +1630,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1640,7 +1640,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1650,7 +1650,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1660,7 +1660,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1670,7 +1670,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1680,7 +1680,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1690,7 +1690,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1700,7 +1700,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1710,7 +1710,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1720,7 +1720,7 @@
       "multiplicacion",
       "numeros-mayores"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1730,7 +1730,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1740,7 +1740,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1750,7 +1750,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1760,7 +1760,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1770,7 +1770,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1780,7 +1780,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1790,7 +1790,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1800,7 +1800,7 @@
       "division",
       "numeros-mayores"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1810,7 +1810,7 @@
       "fracciones",
       "equivalentes"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1820,7 +1820,7 @@
       "fracciones",
       "equivalentes"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1830,7 +1830,7 @@
       "fracciones",
       "equivalentes"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1840,7 +1840,7 @@
       "fracciones",
       "equivalentes"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1850,7 +1850,7 @@
       "fracciones",
       "equivalentes"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1860,7 +1860,7 @@
       "fracciones",
       "equivalentes"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1870,7 +1870,7 @@
       "fracciones",
       "operaciones"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1880,7 +1880,7 @@
       "fracciones",
       "operaciones"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1890,7 +1890,7 @@
       "geometria",
       "perimetro"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1900,7 +1900,7 @@
       "geometria",
       "perimetro"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1910,7 +1910,7 @@
       "geometria",
       "perimetro"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1920,7 +1920,7 @@
       "geometria",
       "area"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1930,7 +1930,7 @@
       "geometria",
       "area"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1940,7 +1940,7 @@
       "geometria",
       "area"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1950,7 +1950,7 @@
       "geometria",
       "figuras"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1960,7 +1960,7 @@
       "geometria",
       "figuras"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1970,7 +1970,7 @@
       "decimales",
       "basico"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1980,7 +1980,7 @@
       "decimales",
       "basico"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -1990,7 +1990,7 @@
       "decimales",
       "basico"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2000,7 +2000,7 @@
       "decimales",
       "operaciones"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2010,7 +2010,7 @@
       "problemas",
       "geometria"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2020,7 +2020,7 @@
       "problemas",
       "geometria"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2030,7 +2030,7 @@
       "problemas",
       "division"
     ],
-    "section": "División",
+    "category": "División",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2040,7 +2040,7 @@
       "problemas",
       "fracciones"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2050,7 +2050,7 @@
       "problemas",
       "multiplicacion"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2061,7 +2061,7 @@
       "geometria",
       "decimales"
     ],
-    "section": "General",
+    "category": "General",
     "source": "matematica-elemental-4.txt"
   },
   {
@@ -2071,7 +2071,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2081,7 +2081,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2091,7 +2091,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2101,7 +2101,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2111,7 +2111,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2121,7 +2121,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2131,7 +2131,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2141,7 +2141,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2151,7 +2151,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2161,7 +2161,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2171,7 +2171,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2181,7 +2181,7 @@
       "multiplicacion",
       "tabla-1"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2191,7 +2191,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2201,7 +2201,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2211,7 +2211,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2221,7 +2221,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2231,7 +2231,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2241,7 +2241,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2251,7 +2251,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2261,7 +2261,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2271,7 +2271,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2281,7 +2281,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2291,7 +2291,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2301,7 +2301,7 @@
       "multiplicacion",
       "tabla-2"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2311,7 +2311,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2321,7 +2321,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2331,7 +2331,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2341,7 +2341,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2351,7 +2351,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2361,7 +2361,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2371,7 +2371,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2381,7 +2381,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2391,7 +2391,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2401,7 +2401,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2411,7 +2411,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2421,7 +2421,7 @@
       "multiplicacion",
       "tabla-3"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2431,7 +2431,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2441,7 +2441,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2451,7 +2451,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2461,7 +2461,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2471,7 +2471,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2481,7 +2481,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2491,7 +2491,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2501,7 +2501,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2511,7 +2511,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2521,7 +2521,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2531,7 +2531,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2541,7 +2541,7 @@
       "multiplicacion",
       "tabla-4"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2551,7 +2551,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2561,7 +2561,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2571,7 +2571,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2581,7 +2581,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2591,7 +2591,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2601,7 +2601,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2611,7 +2611,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2621,7 +2621,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2631,7 +2631,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2641,7 +2641,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2651,7 +2651,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2661,7 +2661,7 @@
       "multiplicacion",
       "tabla-5"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2671,7 +2671,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2681,7 +2681,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2691,7 +2691,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2701,7 +2701,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2711,7 +2711,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2721,7 +2721,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2731,7 +2731,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2741,7 +2741,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2751,7 +2751,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2761,7 +2761,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2771,7 +2771,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2781,7 +2781,7 @@
       "multiplicacion",
       "tabla-6"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2791,7 +2791,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2801,7 +2801,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2811,7 +2811,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2821,7 +2821,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2831,7 +2831,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2841,7 +2841,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2851,7 +2851,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2861,7 +2861,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2871,7 +2871,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2881,7 +2881,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2891,7 +2891,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2901,7 +2901,7 @@
       "multiplicacion",
       "tabla-7"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2911,7 +2911,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2921,7 +2921,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2931,7 +2931,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2941,7 +2941,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2951,7 +2951,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2961,7 +2961,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2971,7 +2971,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2981,7 +2981,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -2991,7 +2991,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3001,7 +3001,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3011,7 +3011,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3021,7 +3021,7 @@
       "multiplicacion",
       "tabla-8"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3031,7 +3031,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3041,7 +3041,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3051,7 +3051,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3061,7 +3061,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3071,7 +3071,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3081,7 +3081,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3091,7 +3091,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3101,7 +3101,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3111,7 +3111,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3121,7 +3121,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3131,7 +3131,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3141,7 +3141,7 @@
       "multiplicacion",
       "tabla-9"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3151,7 +3151,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3161,7 +3161,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3171,7 +3171,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3181,7 +3181,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3191,7 +3191,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3201,7 +3201,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3211,7 +3211,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3221,7 +3221,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3231,7 +3231,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3241,7 +3241,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3251,7 +3251,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3261,7 +3261,7 @@
       "multiplicacion",
       "tabla-10"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3271,7 +3271,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3281,7 +3281,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3291,7 +3291,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3301,7 +3301,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3311,7 +3311,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3321,7 +3321,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3331,7 +3331,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3341,7 +3341,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3351,7 +3351,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3361,7 +3361,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3371,7 +3371,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3381,7 +3381,7 @@
       "multiplicacion",
       "tabla-11"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3391,7 +3391,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3401,7 +3401,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3411,7 +3411,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3421,7 +3421,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3431,7 +3431,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3441,7 +3441,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3451,7 +3451,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3461,7 +3461,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3471,7 +3471,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3481,7 +3481,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3491,7 +3491,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3501,7 +3501,7 @@
       "multiplicacion",
       "tabla-12"
     ],
-    "section": "Multiplicación",
+    "category": "Multiplicación",
     "source": "matematica-tablas.txt"
   },
   {
@@ -3510,7 +3510,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3519,7 +3519,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3528,7 +3528,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3537,7 +3537,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3546,7 +3546,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3555,7 +3555,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3564,7 +3564,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3573,7 +3573,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3582,7 +3582,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3591,7 +3591,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3600,7 +3600,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3609,7 +3609,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3618,7 +3618,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3627,7 +3627,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3636,7 +3636,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3645,7 +3645,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3654,7 +3654,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3663,7 +3663,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3672,7 +3672,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3681,7 +3681,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3690,7 +3690,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3699,7 +3699,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3708,7 +3708,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3717,7 +3717,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3726,7 +3726,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3735,7 +3735,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3744,7 +3744,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3753,7 +3753,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3762,7 +3762,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3771,7 +3771,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3780,7 +3780,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3789,7 +3789,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3798,7 +3798,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3807,7 +3807,7 @@
     "tags": [
       "problemas-dinero"
     ],
-    "section": "Problemas de Dinero",
+    "category": "Problemas de Dinero",
     "source": "problemas-dinero.txt"
   },
   {
@@ -3816,7 +3816,7 @@
     "tags": [
       "identificar-problema"
     ],
-    "section": "Identificar Problema",
+    "category": "Identificar Problema",
     "source": "problemas-identificar.txt"
   },
   {
@@ -3825,7 +3825,7 @@
     "tags": [
       "identificar-problema"
     ],
-    "section": "Identificar Problema",
+    "category": "Identificar Problema",
     "source": "problemas-identificar.txt"
   },
   {
@@ -3834,7 +3834,7 @@
     "tags": [
       "identificar-problema"
     ],
-    "section": "Identificar Problema",
+    "category": "Identificar Problema",
     "source": "problemas-identificar.txt"
   },
   {
@@ -3843,7 +3843,7 @@
     "tags": [
       "identificar-problema"
     ],
-    "section": "Identificar Problema",
+    "category": "Identificar Problema",
     "source": "problemas-identificar.txt"
   }
 ]

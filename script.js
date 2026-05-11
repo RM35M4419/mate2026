@@ -1,152 +1,224 @@
-let allProblems = [];
-let filteredProblems = [];
-let currentProblemIndex = 0;
-let failedAttempts = 0;
+document.addEventListener('DOMContentLoaded', () => {
+    
+    // Elementos del DOM
+    const loadingEl = document.getElementById('loading');
+    const problemContentEl = document.getElementById('problem-content');
+    const categorySelect = document.getElementById('category-select');
+    const problemCategoryEl = document.getElementById('problem-category');
+    const problemTextEl = document.getElementById('problem-text');
+    const userAnswerEl = document.getElementById('user-answer');
+    const feedbackMessageEl = document.getElementById('feedback-message');
+    
+    const btnSubmit = document.getElementById('btn-submit');
+    const btnHint = document.getElementById('btn-hint');
+    const btnShowAnswer = document.getElementById('btn-show-answer');
+    const btnNext = document.getElementById('btn-next');
+    const inkFillEl = document.getElementById('ink-fill');
+    const quoteEl = document.getElementById('quote');
 
-const characters = [
-    { name: "Qifrey", image: "img/Qifrey.png", quote: "El dibujo de un círculo es la base de toda magia, y el cálculo su corazón." },
-    { name: "Coco", image: "img/Coco.png", quote: "¡He aprendido un nuevo hechizo de suma! ¿Puedes ayudarme?" },
-    { name: "Agott", image: "img/Agott.png", quote: "La precisión es fundamental en el dibujo de runas. No te equivoques." },
-    { name: "Tetia", image: "img/Tetia.png", quote: "¡Felicidades! Cada problema resuelto es como una nueva estrella en el cielo." },
-    { name: "Richeh", image: "img/Richeh.png", quote: "Solo busco la magia que es única para mí, y eso requiere entender sus formas." }
-];
+    // Estado de la aplicación
+    let allProblems = [];
+    let currentFilteredProblems = [];
+    let currentProblemIndex = 0;
+    let currentProblem = null;
+    let correctAnswersCount = 0;
+    let failedAttempts = 0;
 
-const nameMapping = {
-    "María": "Coco", "Juan": "Qifrey", "Ana": "Agott", "Pedro": "Olruggio", "Lucía": "Tetia", "Luis": "Richeh",
-    "Tomás": "Qifrey", "Sofía": "Coco", "Carlos": "Olruggio", "Eva": "Agott", "Mateo": "Richeh", "Sandra": "Tetia",
-    "Pablo": "Olruggio", "Laura": "Tetia"
-};
+    const characters = [
+        { name: "Qifrey", image: "img/Qifrey.png", quote: "El dibujo de un círculo es la base de toda magia, y el cálculo su corazón." },
+        { name: "Coco", image: "img/Coco.png", quote: "¡He aprendido un nuevo hechizo de suma! ¿Puedes ayudarme?" },
+        { name: "Agott", image: "img/Agott.png", quote: "La precisión es fundamental en el dibujo de runas. No te equivoques." },
+        { name: "Tetia", image: "img/Tetia.png", quote: "¡Felicidades! Cada problema resuelto es como una nueva estrella en el cielo." },
+        { name: "Richeh", image: "img/Richeh.png", quote: "Solo busco la magia que es única para mí, y eso requiere entender sus formas." }
+    ];
 
-const objectMapping = {
-    "manzanas": "tinteros mágicos", "caramelos": "sellos rúnicos", "gatos": "dragones de papel", "perros": "pinceles mágicos",
-    "bolitas": "gemas de luz", "lápices": "pinceles de varita", "flores": "flores de cristal de nieve", "figuritas": "cartas mágicas",
-    "pesos": "monedas de plata", "libros": "grimorios", "estantes": "anaqueles de hechizos", "galletas": "bayas mágicas",
-    "cinta": "cinta de conjuro", "cuerda": "cordel de plata", "chocolates": "pociones de energía"
-};
+    const nameMapping = {
+        "María": "Coco", "Juan": "Qifrey", "Ana": "Agott", "Pedro": "Olruggio", "Lucía": "Tetia", "Luis": "Richeh",
+        "Tomás": "Qifrey", "Sofía": "Coco", "Carlos": "Olruggio", "Eva": "Agott", "Mateo": "Richeh", "Sandra": "Tetia",
+        "Pablo": "Olruggio", "Laura": "Tetia"
+    };
 
-// UI Elements
-const problemText = document.getElementById('problem-text');
-const answerInput = document.getElementById('answer-input');
-const checkBtn = document.getElementById('check-btn');
-const hintBtn = document.getElementById('hint-btn');
-const nextBtn = document.getElementById('next-btn');
-const feedback = document.getElementById('feedback');
-const teacherQuote = document.getElementById('teacher-quote');
-const characterImg = document.getElementById('character-img');
-const sectionSelect = document.getElementById('section-select');
+    const objectMapping = {
+        "manzanas": "tinteros mágicos", "caramelos": "sellos rúnicos", "gatos": "dragones de papel", "perros": "pinceles mágicos",
+        "bolitas": "gemas de luz", "lápices": "pinceles de varita", "flores": "flores de cristal de nieve", "figuritas": "cartas mágicas",
+        "pesos": "monedas de plata", "libros": "grimorios", "estantes": "anaqueles de hechizos", "galletas": "bayas mágicas",
+        "cinta": "cinta de conjuro", "cuerda": "cordel de plata", "chocolates": "pociones de energía"
+    };
 
-async function init() {
-    try {
-        const response = await fetch('data/problems.json');
-        allProblems = await response.json();
-        
-        // Populate sections
-        const sections = [...new Set(allProblems.map(p => p.section))].sort();
-        sections.forEach(s => {
-            const opt = document.createElement('option');
-            opt.value = s;
-            opt.innerText = s;
-            sectionSelect.appendChild(opt);
+    function tematize(text) {
+        let newText = text;
+        for (const [oldName, newName] of Object.entries(nameMapping)) {
+            newText = newText.replace(new RegExp(oldName, 'g'), newName);
+        }
+        for (const [oldObj, newObj] of Object.entries(objectMapping)) {
+            newText = newText.replace(new RegExp(oldObj, 'g'), newObj);
+        }
+        return newText;
+    }
+
+    // --- CARGA DE DATOS ---
+    async function fetchProblems() {
+        try {
+            const response = await fetch('data/problems.json');
+            if (!response.ok) throw new Error("No se pudo cargar el archivo");
+            allProblems = await response.json();
+        } catch (error) {
+            console.error("Error cargando problemas:", error);
+            problemTextEl.textContent = "Error al cargar los hechizos. Por favor, asegúrate de que el servidor esté activo.";
+        }
+
+        populateCategories(allProblems);
+        filterProblems();
+    }
+
+    function populateCategories(problems) {
+        const categories = [...new Set(problems.map(p => p.category))].sort();
+        categories.forEach(cat => {
+            if(cat) {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat;
+                categorySelect.appendChild(option);
+            }
         });
-
-        filterAndShow();
-    } catch (err) {
-        problemText.innerText = "Error al cargar los hechizos. Asegúrate de que el servidor esté activo.";
-        console.error(err);
     }
-}
 
-function filterAndShow() {
-    const selected = sectionSelect.value;
-    if (selected === 'all') {
-        filteredProblems = [...allProblems];
-    } else {
-        filteredProblems = allProblems.filter(p => p.section === selected);
-    }
-    shuffle(filteredProblems);
-    currentProblemIndex = 0;
-    showProblem();
-}
-
-function shuffle(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-}
-
-function tematize(text) {
-    let newText = text;
-    for (const [oldName, newName] of Object.entries(nameMapping)) {
-        newText = newText.replace(new RegExp(oldName, 'g'), newName);
-    }
-    for (const [oldObj, newObj] of Object.entries(objectMapping)) {
-        newText = newText.replace(new RegExp(oldObj, 'g'), newObj);
-    }
-    return newText;
-}
-
-function showProblem() {
-    if (filteredProblems.length === 0) {
-        problemText.innerText = "No hay problemas cargados.";
-        return;
-    }
-    const problem = filteredProblems[currentProblemIndex];
-    // Usamos innerHTML para renderizar el <br> que añadimos en los archivos de datos
-    problemText.innerHTML = tematize(problem.question);
-    
-    const character = characters[Math.floor(Math.random() * characters.length)];
-    teacherQuote.innerText = `"${character.quote}" — ${character.name}`;
-    characterImg.style.backgroundImage = `url(${character.image})`;
-    
-    // Reset State & UI
-    failedAttempts = 0;
-    answerInput.value = '';
-    feedback.innerText = '';
-    feedback.className = 'feedback-msg';
-    nextBtn.classList.add('hidden');
-    hintBtn.classList.add('hidden');
-    checkBtn.disabled = false;
-    answerInput.focus();
-}
-
-function checkAnswer() {
-    const userAnswer = answerInput.value.trim().toLowerCase();
-    const correctAnswer = filteredProblems[currentProblemIndex].answer.trim().toLowerCase();
-    
-    // Ahora aceptamos letras A, B, C y números
-    if (userAnswer === correctAnswer) {
-        feedback.innerText = "¡Excelente! El hechizo ha funcionado a la perfección.";
-        feedback.className = "feedback-msg correct";
-        nextBtn.classList.remove('hidden');
-        hintBtn.classList.add('hidden');
-        checkBtn.disabled = true;
-    } else {
-        failedAttempts++;
-        feedback.innerText = "Algo ha fallado en el trazo. Inténtalo de nuevo.";
-        feedback.className = "feedback-msg incorrect";
+    function filterProblems() {
+        const selectedCategory = categorySelect.value;
+        if (selectedCategory === "all") {
+            currentFilteredProblems = [...allProblems];
+        } else {
+            currentFilteredProblems = allProblems.filter(p => p.category === selectedCategory);
+        }
         
-        // Show hint button after 2 failed attempts
-        if (failedAttempts >= 2) {
-            hintBtn.classList.remove('hidden');
+        currentFilteredProblems.sort(() => Math.random() - 0.5);
+        currentProblemIndex = 0;
+        correctAnswersCount = 0;
+        updateInkProgress();
+        loadProblem();
+    }
+
+    function loadProblem() {
+        if (currentFilteredProblems.length === 0) {
+            loadingEl.textContent = "No hay problemas disponibles en esta categoría.";
+            return;
+        }
+
+        currentProblem = currentFilteredProblems[currentProblemIndex];
+        
+        // Tematización y Visualización
+        problemCategoryEl.textContent = currentProblem.category || "General";
+        problemTextEl.innerHTML = tematize(currentProblem.question);
+        
+        // Cambiar frase del personaje
+        const character = characters[Math.floor(Math.random() * characters.length)];
+        quoteEl.innerHTML = `"${character.quote}" <br><strong>— ${character.name}</strong>`;
+        
+        // Si hay una imagen de personaje en el DOM (la añadiremos en index.html)
+        const charImgEl = document.getElementById('character-img');
+        if (charImgEl) {
+            charImgEl.style.backgroundImage = `url(${character.image})`;
+        }
+
+        // Resetear UI
+        failedAttempts = 0;
+        userAnswerEl.value = "";
+        hideFeedback();
+        btnNext.classList.add('hidden');
+        btnShowAnswer.classList.add('hidden');
+        btnSubmit.disabled = false;
+        userAnswerEl.disabled = false;
+        loadingEl.classList.add('hidden');
+        problemContentEl.classList.remove('hidden');
+
+        problemContentEl.classList.remove('fade-in');
+        void problemContentEl.offsetWidth; 
+        problemContentEl.classList.add('fade-in');
+        
+        userAnswerEl.focus();
+    }
+
+    function checkAnswer() {
+        const userAnswer = userAnswerEl.value.trim().toLowerCase();
+        const correctAnswer = currentProblem.answer ? currentProblem.answer.toString().toLowerCase() : "";
+
+        if (userAnswer === "") {
+            showFeedback("Por favor, traza una respuesta en el pergamino.", "error");
+            return;
+        }
+
+        if (userAnswer === correctAnswer) {
+            showFeedback("¡Trazado perfecto! El hechizo se ha activado.", "success");
+            btnSubmit.disabled = true;
+            userAnswerEl.disabled = true;
+            btnNext.classList.remove('hidden');
+            btnShowAnswer.classList.add('hidden');
+            
+            correctAnswersCount++;
+            updateInkProgress();
+        } else {
+            failedAttempts++;
+            showFeedback("La tinta se ha corrido... El círculo está incompleto. Inténtalo de nuevo.", "error");
+            
+            if (failedAttempts >= 2) {
+                btnShowAnswer.classList.remove('hidden');
+            }
         }
     }
-}
 
-function showHint() {
-    feedback.innerText = `La respuesta correcta es: ${filteredProblems[currentProblemIndex].answer}`;
-    feedback.className = "feedback-msg";
-    nextBtn.classList.remove('hidden');
-    hintBtn.classList.add('hidden');
-}
+    function showFeedback(message, type) {
+        feedbackMessageEl.textContent = message;
+        feedbackMessageEl.className = 'feedback-message'; 
+        feedbackMessageEl.classList.add(`feedback-${type}`);
+        feedbackMessageEl.classList.remove('hidden');
+    }
 
-checkBtn.addEventListener('click', checkAnswer);
-hintBtn.addEventListener('click', showHint);
-nextBtn.addEventListener('click', () => {
-    currentProblemIndex = (currentProblemIndex + 1) % filteredProblems.length;
-    showProblem();
+    function hideFeedback() {
+        feedbackMessageEl.className = 'feedback-message hidden';
+    }
+
+    function updateInkProgress() {
+        if(currentFilteredProblems.length === 0) return;
+        const percentage = (correctAnswersCount / currentFilteredProblems.length) * 100;
+        inkFillEl.style.width = `${percentage}%`;
+    }
+
+    // --- EVENTOS ---
+    btnSubmit.addEventListener('click', checkAnswer);
+
+    userAnswerEl.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') checkAnswer();
+    });
+
+    btnHint.addEventListener('click', () => {
+        // En los datos actuales no hay hints, así que damos uno genérico o Qifrey ayuda
+        showFeedback("Qifrey te observa: 'Analiza los números con cuidado, el dibujo debe ser preciso'.", "hint");
+    });
+
+    btnShowAnswer.addEventListener('click', () => {
+        showFeedback(`La respuesta correcta es: ${currentProblem.answer}`, "hint");
+        btnNext.classList.remove('hidden');
+        btnSubmit.disabled = true;
+        userAnswerEl.disabled = true;
+        btnShowAnswer.classList.add('hidden');
+    });
+
+    btnNext.addEventListener('click', () => {
+        currentProblemIndex++;
+        if (currentProblemIndex < currentFilteredProblems.length) {
+            loadProblem();
+        } else {
+            problemTextEl.textContent = "¡Has completado todos los hechizos de esta prueba!";
+            problemCategoryEl.textContent = "Prueba Superada";
+            userAnswerEl.classList.add('hidden');
+            document.querySelector('.action-buttons').classList.add('hidden');
+            btnShowAnswer.classList.add('hidden');
+            btnNext.classList.add('hidden');
+            hideFeedback();
+        }
+    });
+
+    categorySelect.addEventListener('change', filterProblems);
+
+    fetchProblems();
 });
-sectionSelect.addEventListener('change', filterAndShow);
-answerInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') checkAnswer(); });
-
-init();
